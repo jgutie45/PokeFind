@@ -1,0 +1,14 @@
+curl -X GET 'https://api.pokemontcg.io/v2/cards?q=id:base1%20supertype:pokemon' -H 'apikey: afa308c8-8082-4e19-871f-02c33fc09986' | jq '.data | .[] | [.id, .name, .level, .hp, .types[0], .rarity, .set.name, .images.large, .images.small, .evolvesTo[0]] | @csv' | tr -d '"\\' | awk -F, 'BEGIN{ OFS=FS } {$1="\""$1"\""; $2="\""$2"\"" ; $5="\""$5"\""; $6="\""$6"\""; $7="\""$7"\""; $8="\""$8"\""; $9="\""$9"\""; $10="\""$10"\""; print }' > base1.csv
+
+curl -X GET 'https://api.pokemontcg.io/v2/cards?q=id:base2%20supertype:pokemon' -H 'apikey: afa308c8-8082-4e19-871f-02c33fc09986' | jq '.data | .[] | [.id, .name, .level, .hp, .types[0], .rarity, .set.name, .images.large, .images.small, .evolvesTo[0]] | @csv' | tr -d '"\\' | awk -F, 'BEGIN{ OFS=FS } {$1="\""$1"\""; $2="\""$2"\"" ; $5="\""$5"\""; $6="\""$6"\""; $7="\""$7"\""; $8="\""$8"\""; $9="\""$9"\""; $10="\""$10"\""; print }' > base2.csv
+
+curl -X GET 'https://api.pokemontcg.io/v2/cards?q=id:base3%20supertype:pokemon' -H 'apikey: afa308c8-8082-4e19-871f-02c33fc09986' | jq '.data | .[] | [.id, .name, .level, .hp, .types[0], .rarity, .set.name, .images.large, .images.small, .evolvesTo[0]] | @csv' | tr -d '"\\' | awk -F, 'BEGIN{ OFS=FS } {$1="\""$1"\""; $2="\""$2"\"" ; $5="\""$5"\""; $6="\""$6"\""; $7="\""$7"\""; $8="\""$8"\""; $9="\""$9"\""; $10="\""$10"\""; print }' > base3.csv
+
+curl -X GET 'https://api.pokemontcg.io/v2/cards?q=id:base4%20supertype:pokemon' -H 'apikey: afa308c8-8082-4e19-871f-02c33fc09986' | jq '.data | .[] | [.id, .name, .level, .hp, .types[0], .rarity, .set.name, .images.large, .images.small, .evolvesTo[0]] | @csv' | tr -d '"\\' | awk -F, 'BEGIN{ OFS=FS } {$1="\""$1"\""; $2="\""$2"\"" ; $5="\""$5"\""; $6="\""$6"\""; $7="\""$7"\""; $8="\""$8"\""; $9="\""$9"\""; $10="\""$10"\""; print }' > base4.csv
+
+curl -X GET 'https://api.pokemontcg.io/v2/cards?q=id:base5%20supertype:pokemon' -H 'apikey: afa308c8-8082-4e19-871f-02c33fc09986' | jq '.data | .[] | [.id, .name, .level, .hp, .types[0], .rarity, .set.name, .images.large, .images.small, .evolvesTo[0]] | @csv' | tr -d '"\\' | awk -F, 'BEGIN{ OFS=FS } {$1="\""$1"\""; $2="\""$2"\"" ; $5="\""$5"\""; $6="\""$6"\""; $7="\""$7"\""; $8="\""$8"\""; $9="\""$9"\""; $10="\""$10"\""; print }' > base5.csv
+
+curl -X GET 'https://api.pokemontcg.io/v2/cards?q=id:basep%20supertype:pokemon' -H 'apikey: afa308c8-8082-4e19-871f-02c33fc09986' | jq '.data | .[] | [.id, .name, .level, .hp, .types[0], .rarity, .set.name, .images.large, .images.small, .evolvesTo[0]] | @csv' | tr -d '"\\' | awk -F, 'BEGIN{ OFS=FS } {$1="\""$1"\""; $2="\""$2"\"" ; $5="\""$5"\""; $6="\""$6"\""; $7="\""$7"\""; $8="\""$8"\""; $9="\""$9"\""; $10="\""$10"\""; print }' > basep.csv
+
+# This page helped with using awk to add quotes to columns.
+# https://unix.stackexchange.com/questions/437164/is-it-possible-to-put-double-quotes-in-just-a-few-columns-using-sed
