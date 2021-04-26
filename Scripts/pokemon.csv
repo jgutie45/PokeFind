@@ -1,0 +1,406 @@
+base1-1,Alakazam,42,80,Psychic,Rare Holo,Base,https://images.pokemontcg.io/base1/1_hires.png,https://images.pokemontcg.io/base1/1.png,\N
+base1-10,Mewtwo,53,60,Psychic,Rare Holo,Base,https://images.pokemontcg.io/base1/10_hires.png,https://images.pokemontcg.io/base1/10.png,\N
+base1-11,Nidoking,23,90,Grass,Rare Holo,Base,https://images.pokemontcg.io/base1/11_hires.png,https://images.pokemontcg.io/base1/11.png,\N
+base1-12,Ninetales,32,80,Fire,Rare Holo,Base,https://images.pokemontcg.io/base1/12_hires.png,https://images.pokemontcg.io/base1/12.png,\N
+base1-13,Poliwrath,48,90,Water,Rare Holo,Base,https://images.pokemontcg.io/base1/13_hires.png,https://images.pokemontcg.io/base1/13.png,\N
+base1-14,Raichu,40,80,Lightning,Rare Holo,Base,https://images.pokemontcg.io/base1/14_hires.png,https://images.pokemontcg.io/base1/14.png,\N
+base1-15,Venusaur,67,100,Grass,Rare Holo,Base,https://images.pokemontcg.io/base1/15_hires.png,https://images.pokemontcg.io/base1/15.png,\N
+base1-16,Zapdos,64,90,Lightning,Rare Holo,Base,https://images.pokemontcg.io/base1/16_hires.png,https://images.pokemontcg.io/base1/16.png,\N
+base1-17,Beedrill,32,80,Grass,Rare,Base,https://images.pokemontcg.io/base1/17_hires.png,https://images.pokemontcg.io/base1/17.png,\N
+base1-18,Dragonair,33,80,Colorless,Rare,Base,https://images.pokemontcg.io/base1/18_hires.png,https://images.pokemontcg.io/base1/18.png,Dragonite
+base1-19,Dugtrio,36,70,Fighting,Rare,Base,https://images.pokemontcg.io/base1/19_hires.png,https://images.pokemontcg.io/base1/19.png,\N
+base1-2,Blastoise,52,100,Water,Rare Holo,Base,https://images.pokemontcg.io/base1/2_hires.png,https://images.pokemontcg.io/base1/2.png,\N
+base1-20,Electabuzz,35,70,Lightning,Rare,Base,https://images.pokemontcg.io/base1/20_hires.png,https://images.pokemontcg.io/base1/20.png,Electivire
+base1-21,Electrode,40,80,Lightning,Rare,Base,https://images.pokemontcg.io/base1/21_hires.png,https://images.pokemontcg.io/base1/21.png,\N
+base1-22,Pidgeotto,36,60,Colorless,Rare,Base,https://images.pokemontcg.io/base1/22_hires.png,https://images.pokemontcg.io/base1/22.png,Pidgeot
+base1-23,Arcanine,45,100,Fire,Uncommon,Base,https://images.pokemontcg.io/base1/23_hires.png,https://images.pokemontcg.io/base1/23.png,\N
+base1-24,Charmeleon,32,80,Fire,Uncommon,Base,https://images.pokemontcg.io/base1/24_hires.png,https://images.pokemontcg.io/base1/24.png,Charizard
+base1-25,Dewgong,42,80,Water,Uncommon,Base,https://images.pokemontcg.io/base1/25_hires.png,https://images.pokemontcg.io/base1/25.png,\N
+base1-26,Dratini,10,40,Colorless,Uncommon,Base,https://images.pokemontcg.io/base1/26_hires.png,https://images.pokemontcg.io/base1/26.png,Dragonair
+base1-27,Farfetch'd,20,50,Colorless,Uncommon,Base,https://images.pokemontcg.io/base1/27_hires.png,https://images.pokemontcg.io/base1/27.png,Sirfetch'd
+base1-28,Growlithe,18,60,Fire,Uncommon,Base,https://images.pokemontcg.io/base1/28_hires.png,https://images.pokemontcg.io/base1/28.png,Arcanine
+base1-29,Haunter,22,60,Psychic,Uncommon,Base,https://images.pokemontcg.io/base1/29_hires.png,https://images.pokemontcg.io/base1/29.png,Gengar
+base1-3,Chansey,55,120,Colorless,Rare Holo,Base,https://images.pokemontcg.io/base1/3_hires.png,https://images.pokemontcg.io/base1/3.png,Blissey
+base1-30,Ivysaur,20,60,Grass,Uncommon,Base,https://images.pokemontcg.io/base1/30_hires.png,https://images.pokemontcg.io/base1/30.png,Venusaur
+base1-31,Jynx,23,70,Psychic,Uncommon,Base,https://images.pokemontcg.io/base1/31_hires.png,https://images.pokemontcg.io/base1/31.png,\N
+base1-32,Kadabra,38,60,Psychic,Uncommon,Base,https://images.pokemontcg.io/base1/32_hires.png,https://images.pokemontcg.io/base1/32.png,Alakazam
+base1-33,Kakuna,23,80,Grass,Uncommon,Base,https://images.pokemontcg.io/base1/33_hires.png,https://images.pokemontcg.io/base1/33.png,Beedrill
+base1-34,Machoke,40,80,Fighting,Uncommon,Base,https://images.pokemontcg.io/base1/34_hires.png,https://images.pokemontcg.io/base1/34.png,Machamp
+base1-35,Magikarp,8,30,Water,Uncommon,Base,https://images.pokemontcg.io/base1/35_hires.png,https://images.pokemontcg.io/base1/35.png,Gyarados
+base1-36,Magmar,24,50,Fire,Uncommon,Base,https://images.pokemontcg.io/base1/36_hires.png,https://images.pokemontcg.io/base1/36.png,Magmortar
+base1-37,Nidorino,25,60,Grass,Uncommon,Base,https://images.pokemontcg.io/base1/37_hires.png,https://images.pokemontcg.io/base1/37.png,Nidoking
+base1-38,Poliwhirl,28,60,Water,Uncommon,Base,https://images.pokemontcg.io/base1/38_hires.png,https://images.pokemontcg.io/base1/38.png,Poliwrath
+base1-39,Porygon,12,30,Colorless,Uncommon,Base,https://images.pokemontcg.io/base1/39_hires.png,https://images.pokemontcg.io/base1/39.png,Porygon2
+base1-4,Charizard,76,120,Fire,Rare Holo,Base,https://images.pokemontcg.io/base1/4_hires.png,https://images.pokemontcg.io/base1/4.png,\N
+base1-40,Raticate,41,60,Colorless,Uncommon,Base,https://images.pokemontcg.io/base1/40_hires.png,https://images.pokemontcg.io/base1/40.png,\N
+base1-41,Seel,12,60,Water,Uncommon,Base,https://images.pokemontcg.io/base1/41_hires.png,https://images.pokemontcg.io/base1/41.png,Dewgong
+base1-42,Wartortle,22,70,Water,Uncommon,Base,https://images.pokemontcg.io/base1/42_hires.png,https://images.pokemontcg.io/base1/42.png,Blastoise
+base1-43,Abra,10,30,Psychic,Common,Base,https://images.pokemontcg.io/base1/43_hires.png,https://images.pokemontcg.io/base1/43.png,Kadabra
+base1-44,Bulbasaur,13,40,Grass,Common,Base,https://images.pokemontcg.io/base1/44_hires.png,https://images.pokemontcg.io/base1/44.png,Ivysaur
+base1-45,Caterpie,13,40,Grass,Common,Base,https://images.pokemontcg.io/base1/45_hires.png,https://images.pokemontcg.io/base1/45.png,Metapod
+base1-46,Charmander,10,50,Fire,Common,Base,https://images.pokemontcg.io/base1/46_hires.png,https://images.pokemontcg.io/base1/46.png,Charmeleon
+base1-47,Diglett,8,30,Fighting,Common,Base,https://images.pokemontcg.io/base1/47_hires.png,https://images.pokemontcg.io/base1/47.png,Dugtrio
+base1-48,Doduo,10,50,Colorless,Common,Base,https://images.pokemontcg.io/base1/48_hires.png,https://images.pokemontcg.io/base1/48.png,Dodrio
+base1-49,Drowzee,10,50,Psychic,Common,Base,https://images.pokemontcg.io/base1/49_hires.png,https://images.pokemontcg.io/base1/49.png,Hypno
+base1-5,Clefairy,14,40,Colorless,Rare Holo,Base,https://images.pokemontcg.io/base1/5_hires.png,https://images.pokemontcg.io/base1/5.png,Clefable
+base1-50,Gastly,8,30,Psychic,Common,Base,https://images.pokemontcg.io/base1/50_hires.png,https://images.pokemontcg.io/base1/50.png,Haunter
+base1-51,Koffing,13,50,Grass,Common,Base,https://images.pokemontcg.io/base1/51_hires.png,https://images.pokemontcg.io/base1/51.png,Weezing
+base1-52,Machop,20,50,Fighting,Common,Base,https://images.pokemontcg.io/base1/52_hires.png,https://images.pokemontcg.io/base1/52.png,Machoke
+base1-53,Magnemite,13,40,Lightning,Common,Base,https://images.pokemontcg.io/base1/53_hires.png,https://images.pokemontcg.io/base1/53.png,Magneton
+base1-54,Metapod,21,70,Grass,Common,Base,https://images.pokemontcg.io/base1/54_hires.png,https://images.pokemontcg.io/base1/54.png,Butterfree
+base1-55,Nidoran ♂,20,40,Grass,Common,Base,https://images.pokemontcg.io/base1/55_hires.png,https://images.pokemontcg.io/base1/55.png,Nidorino
+base1-56,Onix,12,90,Fighting,Common,Base,https://images.pokemontcg.io/base1/56_hires.png,https://images.pokemontcg.io/base1/56.png,Steelix
+base1-57,Pidgey,8,40,Colorless,Common,Base,https://images.pokemontcg.io/base1/57_hires.png,https://images.pokemontcg.io/base1/57.png,Pidgeotto
+base1-58,Pikachu,12,40,Lightning,Common,Base,https://images.pokemontcg.io/base1/58_hires.png,https://images.pokemontcg.io/base1/58.png,Raichu
+base1-59,Poliwag,13,40,Water,Common,Base,https://images.pokemontcg.io/base1/59_hires.png,https://images.pokemontcg.io/base1/59.png,Poliwhirl
+base1-6,Gyarados,41,100,Water,Rare Holo,Base,https://images.pokemontcg.io/base1/6_hires.png,https://images.pokemontcg.io/base1/6.png,\N
+base1-60,Ponyta,10,40,Fire,Common,Base,https://images.pokemontcg.io/base1/60_hires.png,https://images.pokemontcg.io/base1/60.png,Rapidash
+base1-61,Rattata,9,30,Colorless,Common,Base,https://images.pokemontcg.io/base1/61_hires.png,https://images.pokemontcg.io/base1/61.png,Raticate
+base1-62,Sandshrew,12,40,Fighting,Common,Base,https://images.pokemontcg.io/base1/62_hires.png,https://images.pokemontcg.io/base1/62.png,Sandslash
+base1-63,Squirtle,8,40,Water,Common,Base,https://images.pokemontcg.io/base1/63_hires.png,https://images.pokemontcg.io/base1/63.png,Wartortle
+base1-64,Starmie,28,60,Water,Common,Base,https://images.pokemontcg.io/base1/64_hires.png,https://images.pokemontcg.io/base1/64.png,\N
+base1-65,Staryu,15,40,Water,Common,Base,https://images.pokemontcg.io/base1/65_hires.png,https://images.pokemontcg.io/base1/65.png,Starmie
+base1-66,Tangela,8,50,Grass,Common,Base,https://images.pokemontcg.io/base1/66_hires.png,https://images.pokemontcg.io/base1/66.png,Tangrowth
+base1-67,Voltorb,10,40,Lightning,Common,Base,https://images.pokemontcg.io/base1/67_hires.png,https://images.pokemontcg.io/base1/67.png,Electrode
+base1-68,Vulpix,11,50,Fire,Common,Base,https://images.pokemontcg.io/base1/68_hires.png,https://images.pokemontcg.io/base1/68.png,Ninetales
+base1-69,Weedle,12,40,Grass,Common,Base,https://images.pokemontcg.io/base1/69_hires.png,https://images.pokemontcg.io/base1/69.png,Kakuna
+base1-7,Hitmonchan,33,70,Fighting,Rare Holo,Base,https://images.pokemontcg.io/base1/7_hires.png,https://images.pokemontcg.io/base1/7.png,\N
+base1-8,Machamp,67,100,Fighting,Rare Holo,Base,https://images.pokemontcg.io/base1/8_hires.png,https://images.pokemontcg.io/base1/8.png,\N
+base1-9,Magneton,28,60,Lightning,Rare Holo,Base,https://images.pokemontcg.io/base1/9_hires.png,https://images.pokemontcg.io/base1/9.png,Magnezone
+base2-1,Clefable,34,70,Colorless,Rare Holo,Jungle,https://images.pokemontcg.io/base2/1_hires.png,https://images.pokemontcg.io/base2/1.png,\N
+base2-10,Scyther,25,70,Grass,Rare Holo,Jungle,https://images.pokemontcg.io/base2/10_hires.png,https://images.pokemontcg.io/base2/10.png,Scizor
+base2-11,Snorlax,20,90,Colorless,Rare Holo,Jungle,https://images.pokemontcg.io/base2/11_hires.png,https://images.pokemontcg.io/base2/11.png,\N
+base2-12,Vaporeon,42,80,Water,Rare Holo,Jungle,https://images.pokemontcg.io/base2/12_hires.png,https://images.pokemontcg.io/base2/12.png,\N
+base2-13,Venomoth,28,70,Grass,Rare Holo,Jungle,https://images.pokemontcg.io/base2/13_hires.png,https://images.pokemontcg.io/base2/13.png,\N
+base2-14,Victreebel,42,80,Grass,Rare Holo,Jungle,https://images.pokemontcg.io/base2/14_hires.png,https://images.pokemontcg.io/base2/14.png,\N
+base2-15,Vileplume,35,80,Grass,Rare Holo,Jungle,https://images.pokemontcg.io/base2/15_hires.png,https://images.pokemontcg.io/base2/15.png,\N
+base2-16,Wigglytuff,36,80,Colorless,Rare Holo,Jungle,https://images.pokemontcg.io/base2/16_hires.png,https://images.pokemontcg.io/base2/16.png,\N
+base2-17,Clefable,34,70,Colorless,Rare,Jungle,https://images.pokemontcg.io/base2/17_hires.png,https://images.pokemontcg.io/base2/17.png,\N
+base2-18,Electrode,42,90,Lightning,Rare,Jungle,https://images.pokemontcg.io/base2/18_hires.png,https://images.pokemontcg.io/base2/18.png,\N
+base2-19,Flareon,28,70,Fire,Rare,Jungle,https://images.pokemontcg.io/base2/19_hires.png,https://images.pokemontcg.io/base2/19.png,\N
+base2-2,Electrode,42,90,Lightning,Rare Holo,Jungle,https://images.pokemontcg.io/base2/2_hires.png,https://images.pokemontcg.io/base2/2.png,\N
+base2-20,Jolteon,29,70,Lightning,Rare,Jungle,https://images.pokemontcg.io/base2/20_hires.png,https://images.pokemontcg.io/base2/20.png,\N
+base2-21,Kangaskhan,40,90,Colorless,Rare,Jungle,https://images.pokemontcg.io/base2/21_hires.png,https://images.pokemontcg.io/base2/21.png,\N
+base2-22,Mr. Mime,28,40,Psychic,Rare,Jungle,https://images.pokemontcg.io/base2/22_hires.png,https://images.pokemontcg.io/base2/22.png,\N
+base2-23,Nidoqueen,43,90,Grass,Rare,Jungle,https://images.pokemontcg.io/base2/23_hires.png,https://images.pokemontcg.io/base2/23.png,\N
+base2-24,Pidgeot,40,80,Colorless,Rare,Jungle,https://images.pokemontcg.io/base2/24_hires.png,https://images.pokemontcg.io/base2/24.png,\N
+base2-25,Pinsir,24,60,Grass,Rare,Jungle,https://images.pokemontcg.io/base2/25_hires.png,https://images.pokemontcg.io/base2/25.png,\N
+base2-26,Scyther,25,70,Grass,Rare,Jungle,https://images.pokemontcg.io/base2/26_hires.png,https://images.pokemontcg.io/base2/26.png,Scizor
+base2-27,Snorlax,20,90,Colorless,Rare,Jungle,https://images.pokemontcg.io/base2/27_hires.png,https://images.pokemontcg.io/base2/27.png,\N
+base2-28,Vaporeon,42,80,Water,Rare,Jungle,https://images.pokemontcg.io/base2/28_hires.png,https://images.pokemontcg.io/base2/28.png,\N
+base2-29,Venomoth,28,70,Grass,Rare,Jungle,https://images.pokemontcg.io/base2/29_hires.png,https://images.pokemontcg.io/base2/29.png,\N
+base2-3,Flareon,28,70,Fire,Rare Holo,Jungle,https://images.pokemontcg.io/base2/3_hires.png,https://images.pokemontcg.io/base2/3.png,\N
+base2-30,Victreebel,42,80,Grass,Rare,Jungle,https://images.pokemontcg.io/base2/30_hires.png,https://images.pokemontcg.io/base2/30.png,\N
+base2-31,Vileplume,35,80,Grass,Rare,Jungle,https://images.pokemontcg.io/base2/31_hires.png,https://images.pokemontcg.io/base2/31.png,\N
+base2-32,Wigglytuff,36,80,Colorless,Rare,Jungle,https://images.pokemontcg.io/base2/32_hires.png,https://images.pokemontcg.io/base2/32.png,\N
+base2-33,Butterfree,28,70,Grass,Uncommon,Jungle,https://images.pokemontcg.io/base2/33_hires.png,https://images.pokemontcg.io/base2/33.png,\N
+base2-34,Dodrio,28,70,Colorless,Uncommon,Jungle,https://images.pokemontcg.io/base2/34_hires.png,https://images.pokemontcg.io/base2/34.png,\N
+base2-35,Exeggutor,35,80,Grass,Uncommon,Jungle,https://images.pokemontcg.io/base2/35_hires.png,https://images.pokemontcg.io/base2/35.png,\N
+base2-36,Fearow,27,70,Colorless,Uncommon,Jungle,https://images.pokemontcg.io/base2/36_hires.png,https://images.pokemontcg.io/base2/36.png,\N
+base2-37,Gloom,35,60,Grass,Uncommon,Jungle,https://images.pokemontcg.io/base2/37_hires.png,https://images.pokemontcg.io/base2/37.png,Vileplume
+base2-38,Lickitung,10,90,Colorless,Uncommon,Jungle,https://images.pokemontcg.io/base2/38_hires.png,https://images.pokemontcg.io/base2/38.png,Lickilicky
+base2-39,Marowak,26,60,Fighting,Uncommon,Jungle,https://images.pokemontcg.io/base2/39_hires.png,https://images.pokemontcg.io/base2/39.png,\N
+base2-4,Jolteon,29,70,Lightning,Rare Holo,Jungle,https://images.pokemontcg.io/base2/4_hires.png,https://images.pokemontcg.io/base2/4.png,\N
+base2-40,Nidorina,24,70,Grass,Uncommon,Jungle,https://images.pokemontcg.io/base2/40_hires.png,https://images.pokemontcg.io/base2/40.png,Nidoqueen
+base2-41,Parasect,28,60,Grass,Uncommon,Jungle,https://images.pokemontcg.io/base2/41_hires.png,https://images.pokemontcg.io/base2/41.png,\N
+base2-42,Persian,25,70,Colorless,Uncommon,Jungle,https://images.pokemontcg.io/base2/42_hires.png,https://images.pokemontcg.io/base2/42.png,\N
+base2-43,Primeape,45,70,Fighting,Uncommon,Jungle,https://images.pokemontcg.io/base2/43_hires.png,https://images.pokemontcg.io/base2/43.png,\N
+base2-44,Rapidash,33,70,Fire,Uncommon,Jungle,https://images.pokemontcg.io/base2/44_hires.png,https://images.pokemontcg.io/base2/44.png,\N
+base2-45,Rhydon,48,100,Fighting,Uncommon,Jungle,https://images.pokemontcg.io/base2/45_hires.png,https://images.pokemontcg.io/base2/45.png,Rhyperior
+base2-46,Seaking,28,70,Water,Uncommon,Jungle,https://images.pokemontcg.io/base2/46_hires.png,https://images.pokemontcg.io/base2/46.png,\N
+base2-47,Tauros,24,60,Colorless,Uncommon,Jungle,https://images.pokemontcg.io/base2/47_hires.png,https://images.pokemontcg.io/base2/47.png,\N
+base2-48,Weepinbell,28,70,Grass,Uncommon,Jungle,https://images.pokemontcg.io/base2/48_hires.png,https://images.pokemontcg.io/base2/48.png,Victreebel
+base2-49,Bellsprout,11,40,Grass,Common,Jungle,https://images.pokemontcg.io/base2/49_hires.png,https://images.pokemontcg.io/base2/49.png,Weepinbell
+base2-5,Kangaskhan,40,90,Colorless,Rare Holo,Jungle,https://images.pokemontcg.io/base2/5_hires.png,https://images.pokemontcg.io/base2/5.png,\N
+base2-50,Cubone,13,40,Fighting,Common,Jungle,https://images.pokemontcg.io/base2/50_hires.png,https://images.pokemontcg.io/base2/50.png,Marowak
+base2-51,Eevee,12,50,Colorless,Common,Jungle,https://images.pokemontcg.io/base2/51_hires.png,https://images.pokemontcg.io/base2/51.png,Vaporeon
+base2-52,Exeggcute,14,50,Grass,Common,Jungle,https://images.pokemontcg.io/base2/52_hires.png,https://images.pokemontcg.io/base2/52.png,Exeggutor
+base2-53,Goldeen,12,40,Water,Common,Jungle,https://images.pokemontcg.io/base2/53_hires.png,https://images.pokemontcg.io/base2/53.png,Seaking
+base2-54,Jigglypuff,14,60,Colorless,Common,Jungle,https://images.pokemontcg.io/base2/54_hires.png,https://images.pokemontcg.io/base2/54.png,Wigglytuff
+base2-55,Mankey,7,30,Fighting,Common,Jungle,https://images.pokemontcg.io/base2/55_hires.png,https://images.pokemontcg.io/base2/55.png,Primeape
+base2-56,Meowth,15,50,Colorless,Common,Jungle,https://images.pokemontcg.io/base2/56_hires.png,https://images.pokemontcg.io/base2/56.png,Persian
+base2-57,Nidoran ♀,13,60,Grass,Common,Jungle,https://images.pokemontcg.io/base2/57_hires.png,https://images.pokemontcg.io/base2/57.png,Nidorina
+base2-58,Oddish,8,50,Grass,Common,Jungle,https://images.pokemontcg.io/base2/58_hires.png,https://images.pokemontcg.io/base2/58.png,Gloom
+base2-59,Paras,8,40,Grass,Common,Jungle,https://images.pokemontcg.io/base2/59_hires.png,https://images.pokemontcg.io/base2/59.png,Parasect
+base2-6,Mr. Mime,28,40,Psychic,Rare Holo,Jungle,https://images.pokemontcg.io/base2/6_hires.png,https://images.pokemontcg.io/base2/6.png,\N
+base2-60,Pikachu,14,50,Lightning,Common,Jungle,https://images.pokemontcg.io/base2/60_hires.png,https://images.pokemontcg.io/base2/60.png,Raichu
+base2-61,Rhyhorn,18,70,Fighting,Common,Jungle,https://images.pokemontcg.io/base2/61_hires.png,https://images.pokemontcg.io/base2/61.png,Rhydon
+base2-62,Spearow,13,50,Colorless,Common,Jungle,https://images.pokemontcg.io/base2/62_hires.png,https://images.pokemontcg.io/base2/62.png,Fearow
+base2-63,Venonat,12,40,Grass,Common,Jungle,https://images.pokemontcg.io/base2/63_hires.png,https://images.pokemontcg.io/base2/63.png,Venomoth
+base2-7,Nidoqueen,43,90,Grass,Rare Holo,Jungle,https://images.pokemontcg.io/base2/7_hires.png,https://images.pokemontcg.io/base2/7.png,\N
+base2-8,Pidgeot,40,80,Colorless,Rare Holo,Jungle,https://images.pokemontcg.io/base2/8_hires.png,https://images.pokemontcg.io/base2/8.png,\N
+base2-9,Pinsir,24,60,Grass,Rare Holo,Jungle,https://images.pokemontcg.io/base2/9_hires.png,https://images.pokemontcg.io/base2/9.png,\N
+base3-1,Aerodactyl,28,60,Fighting,Rare Holo,Fossil,https://images.pokemontcg.io/base3/1_hires.png,https://images.pokemontcg.io/base3/1.png,\N
+base3-10,Lapras,12,80,Water,Rare Holo,Fossil,https://images.pokemontcg.io/base3/10_hires.png,https://images.pokemontcg.io/base3/10.png,\N
+base3-11,Magneton,35,80,Lightning,Rare Holo,Fossil,https://images.pokemontcg.io/base3/11_hires.png,https://images.pokemontcg.io/base3/11.png,Magnezone
+base3-12,Moltres,35,70,Fire,Rare Holo,Fossil,https://images.pokemontcg.io/base3/12_hires.png,https://images.pokemontcg.io/base3/12.png,\N
+base3-13,Muk,34,70,Grass,Rare Holo,Fossil,https://images.pokemontcg.io/base3/13_hires.png,https://images.pokemontcg.io/base3/13.png,\N
+base3-14,Raichu,45,90,Lightning,Rare Holo,Fossil,https://images.pokemontcg.io/base3/14_hires.png,https://images.pokemontcg.io/base3/14.png,\N
+base3-15,Zapdos,40,80,Lightning,Rare Holo,Fossil,https://images.pokemontcg.io/base3/15_hires.png,https://images.pokemontcg.io/base3/15.png,\N
+base3-16,Aerodactyl,28,60,Fighting,Rare,Fossil,https://images.pokemontcg.io/base3/16_hires.png,https://images.pokemontcg.io/base3/16.png,\N
+base3-17,Articuno,35,70,Water,Rare,Fossil,https://images.pokemontcg.io/base3/17_hires.png,https://images.pokemontcg.io/base3/17.png,\N
+base3-18,Ditto,20,50,Colorless,Rare,Fossil,https://images.pokemontcg.io/base3/18_hires.png,https://images.pokemontcg.io/base3/18.png,\N
+base3-19,Dragonite,45,100,Colorless,Rare,Fossil,https://images.pokemontcg.io/base3/19_hires.png,https://images.pokemontcg.io/base3/19.png,\N
+base3-2,Articuno,35,70,Water,Rare Holo,Fossil,https://images.pokemontcg.io/base3/2_hires.png,https://images.pokemontcg.io/base3/2.png,\N
+base3-20,Gengar,38,80,Psychic,Rare,Fossil,https://images.pokemontcg.io/base3/20_hires.png,https://images.pokemontcg.io/base3/20.png,\N
+base3-21,Haunter,17,50,Psychic,Rare,Fossil,https://images.pokemontcg.io/base3/21_hires.png,https://images.pokemontcg.io/base3/21.png,Gengar
+base3-22,Hitmonlee,30,60,Fighting,Rare,Fossil,https://images.pokemontcg.io/base3/22_hires.png,https://images.pokemontcg.io/base3/22.png,\N
+base3-23,Hypno,36,90,Psychic,Rare,Fossil,https://images.pokemontcg.io/base3/23_hires.png,https://images.pokemontcg.io/base3/23.png,\N
+base3-24,Kabutops,30,60,Fighting,Rare,Fossil,https://images.pokemontcg.io/base3/24_hires.png,https://images.pokemontcg.io/base3/24.png,\N
+base3-25,Lapras,31,80,Water,Rare,Fossil,https://images.pokemontcg.io/base3/25_hires.png,https://images.pokemontcg.io/base3/25.png,\N
+base3-26,Magneton,35,80,Lightning,Rare,Fossil,https://images.pokemontcg.io/base3/26_hires.png,https://images.pokemontcg.io/base3/26.png,Magnezone
+base3-27,Moltres,35,70,Fire,Rare,Fossil,https://images.pokemontcg.io/base3/27_hires.png,https://images.pokemontcg.io/base3/27.png,\N
+base3-28,Muk,34,70,Grass,Rare,Fossil,https://images.pokemontcg.io/base3/28_hires.png,https://images.pokemontcg.io/base3/28.png,\N
+base3-29,Raichu,45,90,Lightning,Rare,Fossil,https://images.pokemontcg.io/base3/29_hires.png,https://images.pokemontcg.io/base3/29.png,\N
+base3-3,Ditto,20,50,Colorless,Rare Holo,Fossil,https://images.pokemontcg.io/base3/3_hires.png,https://images.pokemontcg.io/base3/3.png,\N
+base3-30,Zapdos,40,80,Lightning,Rare,Fossil,https://images.pokemontcg.io/base3/30_hires.png,https://images.pokemontcg.io/base3/30.png,\N
+base3-31,Arbok,27,60,Grass,Uncommon,Fossil,https://images.pokemontcg.io/base3/31_hires.png,https://images.pokemontcg.io/base3/31.png,\N
+base3-32,Cloyster,25,50,Water,Uncommon,Fossil,https://images.pokemontcg.io/base3/32_hires.png,https://images.pokemontcg.io/base3/32.png,\N
+base3-33,Gastly,17,50,Psychic,Uncommon,Fossil,https://images.pokemontcg.io/base3/33_hires.png,https://images.pokemontcg.io/base3/33.png,Haunter
+base3-34,Golbat,29,60,Grass,Uncommon,Fossil,https://images.pokemontcg.io/base3/34_hires.png,https://images.pokemontcg.io/base3/34.png,Crobat
+base3-35,Golduck,27,70,Water,Uncommon,Fossil,https://images.pokemontcg.io/base3/35_hires.png,https://images.pokemontcg.io/base3/35.png,\N
+base3-36,Golem,36,80,Fighting,Uncommon,Fossil,https://images.pokemontcg.io/base3/36_hires.png,https://images.pokemontcg.io/base3/36.png,\N
+base3-37,Graveler,29,60,Fighting,Uncommon,Fossil,https://images.pokemontcg.io/base3/37_hires.png,https://images.pokemontcg.io/base3/37.png,Golem
+base3-38,Kingler,27,60,Water,Uncommon,Fossil,https://images.pokemontcg.io/base3/38_hires.png,https://images.pokemontcg.io/base3/38.png,\N
+base3-39,Magmar,31,70,Fire,Uncommon,Fossil,https://images.pokemontcg.io/base3/39_hires.png,https://images.pokemontcg.io/base3/39.png,Magmortar
+base3-4,Dragonite,45,100,Colorless,Rare Holo,Fossil,https://images.pokemontcg.io/base3/4_hires.png,https://images.pokemontcg.io/base3/4.png,\N
+base3-40,Omastar,32,70,Water,Uncommon,Fossil,https://images.pokemontcg.io/base3/40_hires.png,https://images.pokemontcg.io/base3/40.png,\N
+base3-41,Sandslash,33,70,Fighting,Uncommon,Fossil,https://images.pokemontcg.io/base3/41_hires.png,https://images.pokemontcg.io/base3/41.png,\N
+base3-42,Seadra,23,60,Water,Uncommon,Fossil,https://images.pokemontcg.io/base3/42_hires.png,https://images.pokemontcg.io/base3/42.png,Kingdra
+base3-43,Slowbro,26,60,Psychic,Uncommon,Fossil,https://images.pokemontcg.io/base3/43_hires.png,https://images.pokemontcg.io/base3/43.png,\N
+base3-44,Tentacruel,21,60,Water,Uncommon,Fossil,https://images.pokemontcg.io/base3/44_hires.png,https://images.pokemontcg.io/base3/44.png,\N
+base3-45,Weezing,27,60,Grass,Uncommon,Fossil,https://images.pokemontcg.io/base3/45_hires.png,https://images.pokemontcg.io/base3/45.png,\N
+base3-46,Ekans,10,40,Grass,Common,Fossil,https://images.pokemontcg.io/base3/46_hires.png,https://images.pokemontcg.io/base3/46.png,Arbok
+base3-47,Geodude,16,50,Fighting,Common,Fossil,https://images.pokemontcg.io/base3/47_hires.png,https://images.pokemontcg.io/base3/47.png,Graveler
+base3-48,Grimer,17,50,Grass,Common,Fossil,https://images.pokemontcg.io/base3/48_hires.png,https://images.pokemontcg.io/base3/48.png,Muk
+base3-49,Horsea,19,40,Water,Common,Fossil,https://images.pokemontcg.io/base3/49_hires.png,https://images.pokemontcg.io/base3/49.png,Seadra
+base3-5,Gengar,38,80,Psychic,Rare Holo,Fossil,https://images.pokemontcg.io/base3/5_hires.png,https://images.pokemontcg.io/base3/5.png,\N
+base3-50,Kabuto,9,30,Fighting,Common,Fossil,https://images.pokemontcg.io/base3/50_hires.png,https://images.pokemontcg.io/base3/50.png,Kabutops
+base3-51,Krabby,20,50,Water,Common,Fossil,https://images.pokemontcg.io/base3/51_hires.png,https://images.pokemontcg.io/base3/51.png,Kingler
+base3-52,Omanyte,19,40,Water,Common,Fossil,https://images.pokemontcg.io/base3/52_hires.png,https://images.pokemontcg.io/base3/52.png,Omastar
+base3-53,Psyduck,15,50,Water,Common,Fossil,https://images.pokemontcg.io/base3/53_hires.png,https://images.pokemontcg.io/base3/53.png,Golduck
+base3-54,Shellder,8,30,Water,Common,Fossil,https://images.pokemontcg.io/base3/54_hires.png,https://images.pokemontcg.io/base3/54.png,Cloyster
+base3-55,Slowpoke,18,50,Psychic,Common,Fossil,https://images.pokemontcg.io/base3/55_hires.png,https://images.pokemontcg.io/base3/55.png,Slowbro
+base3-56,Tentacool,10,30,Water,Common,Fossil,https://images.pokemontcg.io/base3/56_hires.png,https://images.pokemontcg.io/base3/56.png,Tentacruel
+base3-57,Zubat,10,40,Grass,Common,Fossil,https://images.pokemontcg.io/base3/57_hires.png,https://images.pokemontcg.io/base3/57.png,Golbat
+base3-6,Haunter,17,50,Psychic,Rare Holo,Fossil,https://images.pokemontcg.io/base3/6_hires.png,https://images.pokemontcg.io/base3/6.png,Gengar
+base3-7,Hitmonlee,30,60,Fighting,Rare Holo,Fossil,https://images.pokemontcg.io/base3/7_hires.png,https://images.pokemontcg.io/base3/7.png,\N
+base3-8,Hypno,36,90,Psychic,Rare Holo,Fossil,https://images.pokemontcg.io/base3/8_hires.png,https://images.pokemontcg.io/base3/8.png,\N
+base3-9,Kabutops,30,60,Fighting,Rare Holo,Fossil,https://images.pokemontcg.io/base3/9_hires.png,https://images.pokemontcg.io/base3/9.png,\N
+base4-1,Alakazam,42,80,Psychic,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/1_hires.png,https://images.pokemontcg.io/base4/1.png,\N
+base4-10,Mewtwo,53,60,Psychic,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/10_hires.png,https://images.pokemontcg.io/base4/10.png,\N
+base4-100,Weedle,12,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/100_hires.png,https://images.pokemontcg.io/base4/100.png,Kakuna
+base4-11,Nidoking,23,90,Grass,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/11_hires.png,https://images.pokemontcg.io/base4/11.png,\N
+base4-12,Nidoqueen,43,90,Grass,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/12_hires.png,https://images.pokemontcg.io/base4/12.png,\N
+base4-13,Ninetales,32,80,Fire,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/13_hires.png,https://images.pokemontcg.io/base4/13.png,\N
+base4-14,Pidgeot,40,80,Colorless,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/14_hires.png,https://images.pokemontcg.io/base4/14.png,\N
+base4-15,Poliwrath,48,90,Water,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/15_hires.png,https://images.pokemontcg.io/base4/15.png,\N
+base4-16,Raichu,40,80,Lightning,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/16_hires.png,https://images.pokemontcg.io/base4/16.png,\N
+base4-17,Scyther,25,70,Grass,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/17_hires.png,https://images.pokemontcg.io/base4/17.png,Scizor
+base4-18,Venusaur,67,100,Grass,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/18_hires.png,https://images.pokemontcg.io/base4/18.png,\N
+base4-19,Wigglytuff,36,80,Colorless,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/19_hires.png,https://images.pokemontcg.io/base4/19.png,\N
+base4-2,Blastoise,52,100,Water,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/2_hires.png,https://images.pokemontcg.io/base4/2.png,\N
+base4-20,Zapdos,64,90,Lightning,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/20_hires.png,https://images.pokemontcg.io/base4/20.png,\N
+base4-21,Beedrill,32,80,Grass,Rare,Base Set 2,https://images.pokemontcg.io/base4/21_hires.png,https://images.pokemontcg.io/base4/21.png,\N
+base4-22,Dragonair,33,80,Colorless,Rare,Base Set 2,https://images.pokemontcg.io/base4/22_hires.png,https://images.pokemontcg.io/base4/22.png,Dragonite
+base4-23,Dugtrio,36,70,Fighting,Rare,Base Set 2,https://images.pokemontcg.io/base4/23_hires.png,https://images.pokemontcg.io/base4/23.png,\N
+base4-24,Electabuzz,35,70,Lightning,Rare,Base Set 2,https://images.pokemontcg.io/base4/24_hires.png,https://images.pokemontcg.io/base4/24.png,Electivire
+base4-25,Electrode,40,80,Lightning,Rare,Base Set 2,https://images.pokemontcg.io/base4/25_hires.png,https://images.pokemontcg.io/base4/25.png,\N
+base4-26,Kangaskhan,40,90,Colorless,Rare,Base Set 2,https://images.pokemontcg.io/base4/26_hires.png,https://images.pokemontcg.io/base4/26.png,\N
+base4-27,Mr. Mime,28,40,Psychic,Rare,Base Set 2,https://images.pokemontcg.io/base4/27_hires.png,https://images.pokemontcg.io/base4/27.png,\N
+base4-28,Pidgeotto,36,60,Colorless,Rare,Base Set 2,https://images.pokemontcg.io/base4/28_hires.png,https://images.pokemontcg.io/base4/28.png,Pidgeot
+base4-29,Pinsir,24,60,Grass,Rare,Base Set 2,https://images.pokemontcg.io/base4/29_hires.png,https://images.pokemontcg.io/base4/29.png,\N
+base4-3,Chansey,55,120,Colorless,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/3_hires.png,https://images.pokemontcg.io/base4/3.png,Blissey
+base4-30,Snorlax,20,90,Colorless,Rare,Base Set 2,https://images.pokemontcg.io/base4/30_hires.png,https://images.pokemontcg.io/base4/30.png,\N
+base4-31,Venomoth,28,70,Grass,Rare,Base Set 2,https://images.pokemontcg.io/base4/31_hires.png,https://images.pokemontcg.io/base4/31.png,\N
+base4-32,Victreebel,42,80,Grass,Rare,Base Set 2,https://images.pokemontcg.io/base4/32_hires.png,https://images.pokemontcg.io/base4/32.png,\N
+base4-33,Arcanine,45,100,Fire,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/33_hires.png,https://images.pokemontcg.io/base4/33.png,\N
+base4-34,Butterfree,28,70,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/34_hires.png,https://images.pokemontcg.io/base4/34.png,\N
+base4-35,Charmeleon,32,80,Fire,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/35_hires.png,https://images.pokemontcg.io/base4/35.png,Charizard
+base4-36,Dewgong,42,80,Water,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/36_hires.png,https://images.pokemontcg.io/base4/36.png,\N
+base4-37,Dodrio,28,70,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/37_hires.png,https://images.pokemontcg.io/base4/37.png,\N
+base4-38,Dratini,10,40,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/38_hires.png,https://images.pokemontcg.io/base4/38.png,Dragonair
+base4-39,Exeggutor,35,80,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/39_hires.png,https://images.pokemontcg.io/base4/39.png,\N
+base4-4,Charizard,76,120,Fire,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/4_hires.png,https://images.pokemontcg.io/base4/4.png,\N
+base4-40,Farfetch'd,20,50,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/40_hires.png,https://images.pokemontcg.io/base4/40.png,Sirfetch'd
+base4-41,Fearow,27,70,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/41_hires.png,https://images.pokemontcg.io/base4/41.png,\N
+base4-42,Growlithe,18,60,Fire,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/42_hires.png,https://images.pokemontcg.io/base4/42.png,Arcanine
+base4-43,Haunter,22,60,Psychic,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/43_hires.png,https://images.pokemontcg.io/base4/43.png,Gengar
+base4-44,Ivysaur,20,60,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/44_hires.png,https://images.pokemontcg.io/base4/44.png,Venusaur
+base4-45,Jynx,23,70,Psychic,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/45_hires.png,https://images.pokemontcg.io/base4/45.png,\N
+base4-46,Kadabra,38,60,Psychic,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/46_hires.png,https://images.pokemontcg.io/base4/46.png,Alakazam
+base4-47,Kakuna,23,80,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/47_hires.png,https://images.pokemontcg.io/base4/47.png,Beedrill
+base4-48,Lickitung,10,90,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/48_hires.png,https://images.pokemontcg.io/base4/48.png,Lickilicky
+base4-49,Machoke,40,80,Fighting,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/49_hires.png,https://images.pokemontcg.io/base4/49.png,Machamp
+base4-5,Clefable,34,70,Colorless,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/5_hires.png,https://images.pokemontcg.io/base4/5.png,\N
+base4-50,Magikarp,8,30,Water,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/50_hires.png,https://images.pokemontcg.io/base4/50.png,Gyarados
+base4-51,Magmar,24,50,Fire,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/51_hires.png,https://images.pokemontcg.io/base4/51.png,Magmortar
+base4-52,Marowak,26,60,Fighting,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/52_hires.png,https://images.pokemontcg.io/base4/52.png,\N
+base4-53,Nidorina,24,70,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/53_hires.png,https://images.pokemontcg.io/base4/53.png,Nidoqueen
+base4-54,Nidorino,25,60,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/54_hires.png,https://images.pokemontcg.io/base4/54.png,Nidoking
+base4-55,Parasect,28,60,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/55_hires.png,https://images.pokemontcg.io/base4/55.png,\N
+base4-56,Persian,25,70,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/56_hires.png,https://images.pokemontcg.io/base4/56.png,\N
+base4-57,Poliwhirl,28,60,Water,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/57_hires.png,https://images.pokemontcg.io/base4/57.png,Poliwrath
+base4-58,Raticate,41,60,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/58_hires.png,https://images.pokemontcg.io/base4/58.png,\N
+base4-59,Rhydon,48,100,Fighting,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/59_hires.png,https://images.pokemontcg.io/base4/59.png,Rhyperior
+base4-6,Clefairy,14,40,Colorless,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/6_hires.png,https://images.pokemontcg.io/base4/6.png,Clefable
+base4-60,Seaking,28,70,Water,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/60_hires.png,https://images.pokemontcg.io/base4/60.png,\N
+base4-61,Seel,12,60,Water,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/61_hires.png,https://images.pokemontcg.io/base4/61.png,Dewgong
+base4-62,Tauros,24,60,Colorless,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/62_hires.png,https://images.pokemontcg.io/base4/62.png,\N
+base4-63,Wartortle,22,70,Water,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/63_hires.png,https://images.pokemontcg.io/base4/63.png,Blastoise
+base4-64,Weepinbell,28,70,Grass,Uncommon,Base Set 2,https://images.pokemontcg.io/base4/64_hires.png,https://images.pokemontcg.io/base4/64.png,Victreebel
+base4-65,Abra,10,30,Psychic,Common,Base Set 2,https://images.pokemontcg.io/base4/65_hires.png,https://images.pokemontcg.io/base4/65.png,Kadabra
+base4-66,Bellsprout,11,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/66_hires.png,https://images.pokemontcg.io/base4/66.png,Weepinbell
+base4-67,Bulbasaur,13,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/67_hires.png,https://images.pokemontcg.io/base4/67.png,Ivysaur
+base4-68,Caterpie,13,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/68_hires.png,https://images.pokemontcg.io/base4/68.png,Metapod
+base4-69,Charmander,10,50,Fire,Common,Base Set 2,https://images.pokemontcg.io/base4/69_hires.png,https://images.pokemontcg.io/base4/69.png,Charmeleon
+base4-7,Gyarados,41,100,Water,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/7_hires.png,https://images.pokemontcg.io/base4/7.png,\N
+base4-70,Cubone,13,40,Fighting,Common,Base Set 2,https://images.pokemontcg.io/base4/70_hires.png,https://images.pokemontcg.io/base4/70.png,Marowak
+base4-71,Diglett,8,30,Fighting,Common,Base Set 2,https://images.pokemontcg.io/base4/71_hires.png,https://images.pokemontcg.io/base4/71.png,Dugtrio
+base4-72,Doduo,10,50,Colorless,Common,Base Set 2,https://images.pokemontcg.io/base4/72_hires.png,https://images.pokemontcg.io/base4/72.png,Dodrio
+base4-73,Drowzee,10,50,Psychic,Common,Base Set 2,https://images.pokemontcg.io/base4/73_hires.png,https://images.pokemontcg.io/base4/73.png,Hypno
+base4-74,Exeggcute,14,50,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/74_hires.png,https://images.pokemontcg.io/base4/74.png,Exeggutor
+base4-75,Gastly,8,30,Psychic,Common,Base Set 2,https://images.pokemontcg.io/base4/75_hires.png,https://images.pokemontcg.io/base4/75.png,Haunter
+base4-76,Goldeen,12,40,Water,Common,Base Set 2,https://images.pokemontcg.io/base4/76_hires.png,https://images.pokemontcg.io/base4/76.png,Seaking
+base4-77,Jigglypuff,14,60,Colorless,Common,Base Set 2,https://images.pokemontcg.io/base4/77_hires.png,https://images.pokemontcg.io/base4/77.png,Wigglytuff
+base4-78,Machop,20,50,Fighting,Common,Base Set 2,https://images.pokemontcg.io/base4/78_hires.png,https://images.pokemontcg.io/base4/78.png,Machoke
+base4-79,Magnemite,13,40,Lightning,Common,Base Set 2,https://images.pokemontcg.io/base4/79_hires.png,https://images.pokemontcg.io/base4/79.png,Magneton
+base4-8,Hitmonchan,33,70,Fighting,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/8_hires.png,https://images.pokemontcg.io/base4/8.png,\N
+base4-80,Meowth,15,50,Colorless,Common,Base Set 2,https://images.pokemontcg.io/base4/80_hires.png,https://images.pokemontcg.io/base4/80.png,Persian
+base4-81,Metapod,21,70,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/81_hires.png,https://images.pokemontcg.io/base4/81.png,Butterfree
+base4-82,Nidoran ♀,13,60,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/82_hires.png,https://images.pokemontcg.io/base4/82.png,Nidorina
+base4-83,Nidoran ♂,20,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/83_hires.png,https://images.pokemontcg.io/base4/83.png,Nidorino
+base4-84,Onix,12,90,Fighting,Common,Base Set 2,https://images.pokemontcg.io/base4/84_hires.png,https://images.pokemontcg.io/base4/84.png,Steelix
+base4-85,Paras,8,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/85_hires.png,https://images.pokemontcg.io/base4/85.png,Parasect
+base4-86,Pidgey,8,40,Colorless,Common,Base Set 2,https://images.pokemontcg.io/base4/86_hires.png,https://images.pokemontcg.io/base4/86.png,Pidgeotto
+base4-87,Pikachu,12,40,Lightning,Common,Base Set 2,https://images.pokemontcg.io/base4/87_hires.png,https://images.pokemontcg.io/base4/87.png,Raichu
+base4-88,Poliwag,13,40,Water,Common,Base Set 2,https://images.pokemontcg.io/base4/88_hires.png,https://images.pokemontcg.io/base4/88.png,Poliwhirl
+base4-89,Rattata,9,30,Colorless,Common,Base Set 2,https://images.pokemontcg.io/base4/89_hires.png,https://images.pokemontcg.io/base4/89.png,Raticate
+base4-9,Magneton,28,60,Lightning,Rare Holo,Base Set 2,https://images.pokemontcg.io/base4/9_hires.png,https://images.pokemontcg.io/base4/9.png,Magnezone
+base4-90,Rhyhorn,18,70,Fighting,Common,Base Set 2,https://images.pokemontcg.io/base4/90_hires.png,https://images.pokemontcg.io/base4/90.png,Rhydon
+base4-91,Sandshrew,12,40,Fighting,Common,Base Set 2,https://images.pokemontcg.io/base4/91_hires.png,https://images.pokemontcg.io/base4/91.png,Sandslash
+base4-92,Spearow,13,50,Colorless,Common,Base Set 2,https://images.pokemontcg.io/base4/92_hires.png,https://images.pokemontcg.io/base4/92.png,Fearow
+base4-93,Squirtle,8,40,Water,Common,Base Set 2,https://images.pokemontcg.io/base4/93_hires.png,https://images.pokemontcg.io/base4/93.png,Wartortle
+base4-94,Starmie,28,60,Water,Common,Base Set 2,https://images.pokemontcg.io/base4/94_hires.png,https://images.pokemontcg.io/base4/94.png,\N
+base4-95,Staryu,15,40,Water,Common,Base Set 2,https://images.pokemontcg.io/base4/95_hires.png,https://images.pokemontcg.io/base4/95.png,Starmie
+base4-96,Tangela,8,50,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/96_hires.png,https://images.pokemontcg.io/base4/96.png,Tangrowth
+base4-97,Venonat,12,40,Grass,Common,Base Set 2,https://images.pokemontcg.io/base4/97_hires.png,https://images.pokemontcg.io/base4/97.png,Venomoth
+base4-98,Voltorb,10,40,Lightning,Common,Base Set 2,https://images.pokemontcg.io/base4/98_hires.png,https://images.pokemontcg.io/base4/98.png,Electrode
+base4-99,Vulpix,11,50,Fire,Common,Base Set 2,https://images.pokemontcg.io/base4/99_hires.png,https://images.pokemontcg.io/base4/99.png,Ninetales
+base5-1,Dark Alakazam,30,60,Psychic,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/1_hires.png,https://images.pokemontcg.io/base5/1.png,\N
+base5-10,Dark Machamp,30,70,Fighting,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/10_hires.png,https://images.pokemontcg.io/base5/10.png,\N
+base5-11,Dark Magneton,26,60,Lightning,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/11_hires.png,https://images.pokemontcg.io/base5/11.png,Magnezone
+base5-12,Dark Slowbro,27,60,Psychic,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/12_hires.png,https://images.pokemontcg.io/base5/12.png,\N
+base5-13,Dark Vileplume,29,60,Grass,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/13_hires.png,https://images.pokemontcg.io/base5/13.png,\N
+base5-14,Dark Weezing,24,60,Grass,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/14_hires.png,https://images.pokemontcg.io/base5/14.png,\N
+base5-18,Dark Alakazam,30,60,Psychic,Rare,Team Rocket,https://images.pokemontcg.io/base5/18_hires.png,https://images.pokemontcg.io/base5/18.png,\N
+base5-19,Dark Arbok,25,60,Grass,Rare,Team Rocket,https://images.pokemontcg.io/base5/19_hires.png,https://images.pokemontcg.io/base5/19.png,\N
+base5-2,Dark Arbok,25,60,Grass,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/2_hires.png,https://images.pokemontcg.io/base5/2.png,\N
+base5-20,Dark Blastoise,28,70,Water,Rare,Team Rocket,https://images.pokemontcg.io/base5/20_hires.png,https://images.pokemontcg.io/base5/20.png,\N
+base5-21,Dark Charizard,38,80,Fire,Rare,Team Rocket,https://images.pokemontcg.io/base5/21_hires.png,https://images.pokemontcg.io/base5/21.png,\N
+base5-22,Dark Dragonite,33,70,Colorless,Rare,Team Rocket,https://images.pokemontcg.io/base5/22_hires.png,https://images.pokemontcg.io/base5/22.png,\N
+base5-23,Dark Dugtrio,18,50,Fighting,Rare,Team Rocket,https://images.pokemontcg.io/base5/23_hires.png,https://images.pokemontcg.io/base5/23.png,\N
+base5-24,Dark Golbat,25,50,Grass,Rare,Team Rocket,https://images.pokemontcg.io/base5/24_hires.png,https://images.pokemontcg.io/base5/24.png,Crobat
+base5-25,Dark Gyarados,31,70,Water,Rare,Team Rocket,https://images.pokemontcg.io/base5/25_hires.png,https://images.pokemontcg.io/base5/25.png,\N
+base5-26,Dark Hypno,26,60,Psychic,Rare,Team Rocket,https://images.pokemontcg.io/base5/26_hires.png,https://images.pokemontcg.io/base5/26.png,\N
+base5-27,Dark Machamp,30,70,Fighting,Rare,Team Rocket,https://images.pokemontcg.io/base5/27_hires.png,https://images.pokemontcg.io/base5/27.png,\N
+base5-28,Dark Magneton,26,60,Lightning,Rare,Team Rocket,https://images.pokemontcg.io/base5/28_hires.png,https://images.pokemontcg.io/base5/28.png,Magnezone
+base5-29,Dark Slowbro,27,60,Psychic,Rare,Team Rocket,https://images.pokemontcg.io/base5/29_hires.png,https://images.pokemontcg.io/base5/29.png,\N
+base5-3,Dark Blastoise,28,70,Water,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/3_hires.png,https://images.pokemontcg.io/base5/3.png,\N
+base5-30,Dark Vileplume,29,60,Grass,Rare,Team Rocket,https://images.pokemontcg.io/base5/30_hires.png,https://images.pokemontcg.io/base5/30.png,\N
+base5-31,Dark Weezing,24,60,Grass,Rare,Team Rocket,https://images.pokemontcg.io/base5/31_hires.png,https://images.pokemontcg.io/base5/31.png,\N
+base5-32,Dark Charmeleon,23,50,Fire,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/32_hires.png,https://images.pokemontcg.io/base5/32.png,Charizard
+base5-33,Dark Dragonair,28,60,Colorless,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/33_hires.png,https://images.pokemontcg.io/base5/33.png,Dragonite
+base5-34,Dark Electrode,24,60,Lightning,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/34_hires.png,https://images.pokemontcg.io/base5/34.png,\N
+base5-35,Dark Flareon,23,50,Fire,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/35_hires.png,https://images.pokemontcg.io/base5/35.png,\N
+base5-36,Dark Gloom,21,50,Grass,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/36_hires.png,https://images.pokemontcg.io/base5/36.png,Vileplume
+base5-37,Dark Golduck,23,60,Water,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/37_hires.png,https://images.pokemontcg.io/base5/37.png,\N
+base5-38,Dark Jolteon,23,50,Lightning,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/38_hires.png,https://images.pokemontcg.io/base5/38.png,\N
+base5-39,Dark Kadabra,24,50,Psychic,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/39_hires.png,https://images.pokemontcg.io/base5/39.png,Alakazam
+base5-4,Dark Charizard,38,80,Fire,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/4_hires.png,https://images.pokemontcg.io/base5/4.png,\N
+base5-40,Dark Machoke,28,60,Fighting,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/40_hires.png,https://images.pokemontcg.io/base5/40.png,Machamp
+base5-41,Dark Muk,25,60,Grass,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/41_hires.png,https://images.pokemontcg.io/base5/41.png,\N
+base5-42,Dark Persian,28,60,Colorless,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/42_hires.png,https://images.pokemontcg.io/base5/42.png,\N
+base5-43,Dark Primeape,23,60,Fighting,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/43_hires.png,https://images.pokemontcg.io/base5/43.png,\N
+base5-44,Dark Rapidash,24,60,Fire,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/44_hires.png,https://images.pokemontcg.io/base5/44.png,\N
+base5-45,Dark Vaporeon,28,60,Water,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/45_hires.png,https://images.pokemontcg.io/base5/45.png,\N
+base5-46,Dark Wartortle,21,60,Water,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/46_hires.png,https://images.pokemontcg.io/base5/46.png,Blastoise
+base5-47,Magikarp,6,30,Water,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/47_hires.png,https://images.pokemontcg.io/base5/47.png,Gyarados
+base5-48,Porygon,26,40,Colorless,Uncommon,Team Rocket,https://images.pokemontcg.io/base5/48_hires.png,https://images.pokemontcg.io/base5/48.png,Porygon2
+base5-49,Abra,14,40,Psychic,Common,Team Rocket,https://images.pokemontcg.io/base5/49_hires.png,https://images.pokemontcg.io/base5/49.png,Kadabra
+base5-5,Dark Dragonite,33,70,Colorless,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/5_hires.png,https://images.pokemontcg.io/base5/5.png,\N
+base5-50,Charmander,9,40,Fire,Common,Team Rocket,https://images.pokemontcg.io/base5/50_hires.png,https://images.pokemontcg.io/base5/50.png,Charmeleon
+base5-51,Dark Raticate,25,50,Colorless,Common,Team Rocket,https://images.pokemontcg.io/base5/51_hires.png,https://images.pokemontcg.io/base5/51.png,\N
+base5-52,Diglett,15,40,Fighting,Common,Team Rocket,https://images.pokemontcg.io/base5/52_hires.png,https://images.pokemontcg.io/base5/52.png,Dugtrio
+base5-53,Dratini,12,40,Colorless,Common,Team Rocket,https://images.pokemontcg.io/base5/53_hires.png,https://images.pokemontcg.io/base5/53.png,Dragonair
+base5-54,Drowzee,10,50,Psychic,Common,Team Rocket,https://images.pokemontcg.io/base5/54_hires.png,https://images.pokemontcg.io/base5/54.png,Hypno
+base5-55,Eevee,9,40,Colorless,Common,Team Rocket,https://images.pokemontcg.io/base5/55_hires.png,https://images.pokemontcg.io/base5/55.png,Vaporeon
+base5-56,Ekans,15,50,Grass,Common,Team Rocket,https://images.pokemontcg.io/base5/56_hires.png,https://images.pokemontcg.io/base5/56.png,Arbok
+base5-57,Grimer,10,40,Grass,Common,Team Rocket,https://images.pokemontcg.io/base5/57_hires.png,https://images.pokemontcg.io/base5/57.png,Muk
+base5-58,Koffing,12,40,Grass,Common,Team Rocket,https://images.pokemontcg.io/base5/58_hires.png,https://images.pokemontcg.io/base5/58.png,Weezing
+base5-59,Machop,24,50,Fighting,Common,Team Rocket,https://images.pokemontcg.io/base5/59_hires.png,https://images.pokemontcg.io/base5/59.png,Machoke
+base5-6,Dark Dugtrio,18,50,Fighting,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/6_hires.png,https://images.pokemontcg.io/base5/6.png,\N
+base5-60,Magnemite,12,40,Lightning,Common,Team Rocket,https://images.pokemontcg.io/base5/60_hires.png,https://images.pokemontcg.io/base5/60.png,Magneton
+base5-61,Mankey,14,40,Fighting,Common,Team Rocket,https://images.pokemontcg.io/base5/61_hires.png,https://images.pokemontcg.io/base5/61.png,Primeape
+base5-62,Meowth,10,40,Colorless,Common,Team Rocket,https://images.pokemontcg.io/base5/62_hires.png,https://images.pokemontcg.io/base5/62.png,Persian
+base5-63,Oddish,21,50,Grass,Common,Team Rocket,https://images.pokemontcg.io/base5/63_hires.png,https://images.pokemontcg.io/base5/63.png,Gloom
+base5-64,Ponyta,15,50,Fire,Common,Team Rocket,https://images.pokemontcg.io/base5/64_hires.png,https://images.pokemontcg.io/base5/64.png,Rapidash
+base5-65,Psyduck,16,50,Water,Common,Team Rocket,https://images.pokemontcg.io/base5/65_hires.png,https://images.pokemontcg.io/base5/65.png,Golduck
+base5-66,Rattata,12,40,Colorless,Common,Team Rocket,https://images.pokemontcg.io/base5/66_hires.png,https://images.pokemontcg.io/base5/66.png,Raticate
+base5-67,Slowpoke,16,50,Psychic,Common,Team Rocket,https://images.pokemontcg.io/base5/67_hires.png,https://images.pokemontcg.io/base5/67.png,Slowbro
+base5-68,Squirtle,16,50,Water,Common,Team Rocket,https://images.pokemontcg.io/base5/68_hires.png,https://images.pokemontcg.io/base5/68.png,Wartortle
+base5-69,Voltorb,13,40,Lightning,Common,Team Rocket,https://images.pokemontcg.io/base5/69_hires.png,https://images.pokemontcg.io/base5/69.png,Electrode
+base5-7,Dark Golbat,25,50,Grass,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/7_hires.png,https://images.pokemontcg.io/base5/7.png,Crobat
+base5-70,Zubat,9,40,Grass,Common,Team Rocket,https://images.pokemontcg.io/base5/70_hires.png,https://images.pokemontcg.io/base5/70.png,Golbat
+base5-8,Dark Gyarados,31,70,Water,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/8_hires.png,https://images.pokemontcg.io/base5/8.png,\N
+base5-83,Dark Raichu,31,70,Lightning,Rare Secret,Team Rocket,https://images.pokemontcg.io/base5/83_hires.png,https://images.pokemontcg.io/base5/83.png,\N
+base5-9,Dark Hypno,26,60,Psychic,Rare Holo,Team Rocket,https://images.pokemontcg.io/base5/9_hires.png,https://images.pokemontcg.io/base5/9.png,\N
+basep-1,Pikachu,16,60,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/1_hires.png,https://images.pokemontcg.io/basep/1.png,Raichu
+basep-10,Meowth,13,50,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/10_hires.png,https://images.pokemontcg.io/basep/10.png,Persian
+basep-11,Eevee,7,30,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/11_hires.png,https://images.pokemontcg.io/basep/11.png,Vaporeon
+basep-12,Mewtwo,13,60,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/12_hires.png,https://images.pokemontcg.io/basep/12.png,\N
+basep-13,Venusaur,16,100,Grass,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/13_hires.png,https://images.pokemontcg.io/basep/13.png,\N
+basep-14,Mewtwo,60,70,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/14_hires.png,https://images.pokemontcg.io/basep/14.png,\N
+basep-15,Cool Porygon,15,50,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/15_hires.png,https://images.pokemontcg.io/basep/15.png,Porygon2
+basep-17,Dark Persian,28,60,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/17_hires.png,https://images.pokemontcg.io/basep/17.png,\N
+basep-18,Team Rocket's Meowth,30,40,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/18_hires.png,https://images.pokemontcg.io/basep/18.png,Persian
+basep-19,Sabrina's Abra,15,40,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/19_hires.png,https://images.pokemontcg.io/basep/19.png,Kadabra
+basep-2,Electabuzz,20,60,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/2_hires.png,https://images.pokemontcg.io/basep/2.png,Electivire
+basep-20,Psyduck,15,50,Water,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/20_hires.png,https://images.pokemontcg.io/basep/20.png,Golduck
+basep-21,Moltres,33,70,Fire,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/21_hires.png,https://images.pokemontcg.io/basep/21.png,\N
+basep-22,Articuno,34,70,Water,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/22_hires.png,https://images.pokemontcg.io/basep/22.png,\N
+basep-23,Zapdos,30,70,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/23_hires.png,https://images.pokemontcg.io/basep/23.png,\N
+basep-24,_____'s Pikachu,17,50,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/24_hires.png,https://images.pokemontcg.io/basep/24.png,Raichu
+basep-25,Flying Pikachu,12,40,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/25_hires.png,https://images.pokemontcg.io/basep/25.png,Raichu
+basep-26,Pikachu,9,40,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/26_hires.png,https://images.pokemontcg.io/basep/26.png,Raichu
+basep-27,Pikachu,5,30,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/27_hires.png,https://images.pokemontcg.io/basep/27.png,Raichu
+basep-28,Surfing Pikachu,32,50,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/28_hires.png,https://images.pokemontcg.io/basep/28.png,Raichu
+basep-29,Marill,64,50,Water,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/29_hires.png,https://images.pokemontcg.io/basep/29.png,Azumarill
+basep-3,Mewtwo,60,70,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/3_hires.png,https://images.pokemontcg.io/basep/3.png,\N
+basep-30,Togepi,8,30,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/30_hires.png,https://images.pokemontcg.io/basep/30.png,Togetic
+basep-31,Cleffa,5,30,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/31_hires.png,https://images.pokemontcg.io/basep/31.png,Clefairy
+basep-32,Smeargle,21,40,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/32_hires.png,https://images.pokemontcg.io/basep/32.png,\N
+basep-33,Scizor,36,70,Metal,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/33_hires.png,https://images.pokemontcg.io/basep/33.png,\N
+basep-34,Entei,37,80,Fire,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/34_hires.png,https://images.pokemontcg.io/basep/34.png,\N
+basep-35,Pichu,4,30,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/35_hires.png,https://images.pokemontcg.io/basep/35.png,Pikachu
+basep-36,Igglybuff,5,30,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/36_hires.png,https://images.pokemontcg.io/basep/36.png,Jigglypuff
+basep-37,Hitmontop,29,60,Fighting,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/37_hires.png,https://images.pokemontcg.io/basep/37.png,\N
+basep-38,Unown [J],17,40,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/38_hires.png,https://images.pokemontcg.io/basep/38.png,\N
+basep-39,Misdreavus,23,50,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/39_hires.png,https://images.pokemontcg.io/basep/39.png,Mismagius
+basep-4,Pikachu,13,50,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/4_hires.png,https://images.pokemontcg.io/basep/4.png,Raichu
+basep-43,Machamp,54,90,Fighting,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/43_hires.png,https://images.pokemontcg.io/basep/43.png,\N
+basep-44,Magmar,27,60,Fire,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/44_hires.png,https://images.pokemontcg.io/basep/44.png,Magmortar
+basep-45,Scyther,23,60,Grass,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/45_hires.png,https://images.pokemontcg.io/basep/45.png,Scizor
+basep-46,Electabuzz,22,60,Lightning,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/46_hires.png,https://images.pokemontcg.io/basep/46.png,Electivire
+basep-47,Mew,8,40,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/47_hires.png,https://images.pokemontcg.io/basep/47.png,\N
+basep-48,Articuno,34,80,Water,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/48_hires.png,https://images.pokemontcg.io/basep/48.png,\N
+basep-49,Snorlax,35,90,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/49_hires.png,https://images.pokemontcg.io/basep/49.png,\N
+basep-5,Dragonite,43,90,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/5_hires.png,https://images.pokemontcg.io/basep/5.png,\N
+basep-50,Celebi,\N,50,Grass,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/50_hires.png,https://images.pokemontcg.io/basep/50.png,\N
+basep-51,Rapidash,\N,60,Fire,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/51_hires.png,https://images.pokemontcg.io/basep/51.png,\N
+basep-52,Ho-oh,\N,80,Fire,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/52_hires.png,https://images.pokemontcg.io/basep/52.png,\N
+basep-53,Suicune,\N,70,Water,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/53_hires.png,https://images.pokemontcg.io/basep/53.png,\N
+basep-6,Arcanine,34,70,Fire,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/6_hires.png,https://images.pokemontcg.io/basep/6.png,\N
+basep-7,Jigglypuff,12,50,Colorless,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/7_hires.png,https://images.pokemontcg.io/basep/7.png,Wigglytuff
+basep-8,Mew,23,50,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/8_hires.png,https://images.pokemontcg.io/basep/8.png,\N
+basep-9,Mew,51,50,Psychic,Promo,Wizards Black Star Promos,https://images.pokemontcg.io/basep/9_hires.png,https://images.pokemontcg.io/basep/9.png,\N
