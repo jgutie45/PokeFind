@@ -1,47 +1,47 @@
-create database PokeFind;
-use PokeFind;
+DROP DATABASE IF EXISTS PokeFind;
+CREATE DATABASE PokeFind;
+USE PokeFind;
 
-create table pokemon (
-	id				varchar(10),
-    pokemon_name	varchar(40),
-    pokemon_level	int,
-    hp				int,
-    pokemon_type	varchar(100),
-    rarity			varchar(100),
-    set_name		varchar(100),
-    image_large		varchar(200),
-    image_small 	varchar(200),
-    evolvesTo 		varchar(100),
-    primary key (id)
+CREATE TABLE pokemon (
+	id				VARCHAR(10),
+    pokemon_name	VARCHAR(50),
+    pokemon_level	INT,
+    hp				INT,
+    pokemon_type	VARCHAR(50),
+    rarity			VARCHAR(50),
+    set_name		VARCHAR(50),
+    image_large		VARCHAR(200),
+    image_small 	VARCHAR(200),
+    evolvesTo 		VARCHAR(50),
+    PRIMARY KEY (id)
 );
 
-create table attack (
-    id				varchar(10),
-    attack_name		varchar(100),
-    attack_cost		varchar(150),
-    convertedEnergyCost  	int,
-    attack_damage   varchar(10),
-    primary key (id, attack_name),
-    foreign key (id) references pokemon(id) on delete cascade
+CREATE TABLE attack (
+    id				VARCHAR(10),
+    attack_name		VARCHAR(50),
+    attack_cost		VARCHAR(50),
+    convertedEnergyCost  	INT,
+    attack_damage   		INT,
+    PRIMARY KEY (id, attack_name),
+    FOREIGN KEY (id) REFERENCES pokemon(id) ON DELETE CASCADE
 );
 
-create table weakness (
-    id				varchar(10),
-    weakness_type   varchar(100),
-    weakness_value  varchar(10),
-    primary key (id),
-    foreign key (id) references pokemon(id) on delete cascade
+CREATE TABLE weakness (
+    id				VARCHAR(10),
+    weakness_type   VARCHAR(50),
+    weakness_value  VARCHAR(10),
+    PRIMARY KEY (id),
+    FOREIGN KEY (id) REFERENCES pokemon(id) ON DELETE CASCADE
 );
 
-create table price (
-    id			varchar(10),
-    card_type	varchar(50),
-	low			int,
-    mid         int,
-    high        int,
-    primary key (id, card_type),
-    foreign key (id) references pokemon(id) on delete cascade
+CREATE TABLE price (
+    id			VARCHAR(10),
+    card_type	VARCHAR(50),
+	low			INT,
+    mid         INT,
+    high        INT,
+    PRIMARY KEY (id, card_type),
+    FOREIGN KEY (id) REFERENCES pokemon(id) ON DELETE CASCADE
 );
-
 
 
