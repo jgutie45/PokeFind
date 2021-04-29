@@ -1,28 +1,28 @@
 USE PokeFind;
 
 -- Procedures:
--- findSet(setName VARCHAR(20))
--- findPokemon(pokemonName VARCHAR(20))
--- findType(pokemonType VARCHAR(20))
--- findID(pokemonID VARCHAR(20))
--- findRarity(pokemonRarity VARCHAR(20))
--- findEvolve(pokemonName VARCHAR(20))
--- findWeakness(pokemonName VARCHAR(20))
--- findLevelGreater(pokemonLevel INT)
--- findLevelLess(pokemonLevel INT)
--- findLevelExact(pokemonLevel INT)
--- findHPGreater(pokemonHP INT)
--- findHPLess(pokemonHP INT)
--- findHPExact(pokemonHP INT)
--- findAttackDamage(pokemonName VARCHAR(20))
--- findAttackDamageGreater(attackDamage INT)
--- findAttackDamageLess(attackDamage INT)
--- findPriceLowAsc(pokemonName VARCHAR(20))
--- findPriceLowDesc(pokemonName VARCHAR(20))
--- findPriceMidAsc(pokemonName VARCHAR(20))
--- findPriceMidDesc(pokemonName VARCHAR(20))
--- findPriceHighAsc(pokemonName VARCHAR(20))
--- findPriceHighDesc(pokemonName VARCHAR(20))
+-- findSet(setName VARCHAR(20)): pokemon_name, set_name, image_large
+-- findPokemon(pokemonName VARCHAR(20)): pokemon_name, set_name, image_large
+-- findType(pokemonType VARCHAR(20)): pokemon_name, set_name, image_large
+-- findID(pokemonID VARCHAR(20)): pokemon_name, set_name, image_large
+-- findRarity(pokemonRarity VARCHAR(20)): pokemon_name, rarity, set_name, image_large
+-- findEvolve(pokemonName VARCHAR(20)): pokemon_name, evolvesTo, set_name, image_large
+-- findWeakness(pokemonName VARCHAR(20)): pokemon_name, weakness_type, weakness_value, set_name, image_large
+-- findLevelGreater(pokemonLevel INT): pokemon_name, set_name, pokemon_level, image_large
+-- findLevelLess(pokemonLevel INT): pokemon_name, set_name, pokemon_level, image_large
+-- findLevelExact(pokemonLevel INT): pokemon_name, set_name, pokemon_level, image_large
+-- findHPGreater(pokemonHP INT): pokemon_name, hp, set_name, image_large
+-- findHPLess(pokemonHP INT): pokemon_name, hp, set_name, image_large
+-- findHPExact(pokemonHP INT): pokemon_name, hp, set_name, image_large
+-- findAttackDamage(pokemonName VARCHAR(20)): pokemon_name, attack_name, attack_damage, set_name, image_large
+-- findAttackDamageGreater(attackDamage INT): pokemon_name, attack_name, attack_damage, set_name, image_large
+-- findAttackDamageLess(attackDamage INT): pokemon_name, attack_name, attack_damage, set_name, image_large
+-- findPriceLowAsc(pokemonName VARCHAR(20)): pokemon_name, low, mid, high, set_name, image_large
+-- findPriceLowDesc(pokemonName VARCHAR(20)): pokemon_name, low, mid, high, set_name, image_large
+-- findPriceMidAsc(pokemonName VARCHAR(20)): pokemon_name, low, mid, high, set_name, image_large
+-- findPriceMidDesc(pokemonName VARCHAR(20)): pokemon_name, low, mid, high, set_name, image_large
+-- findPriceHighAsc(pokemonName VARCHAR(20)): pokemon_name, low, mid, high, set_name, image_large
+-- findPriceHighDesc(pokemonName VARCHAR(20)):pokemon_name, low, mid, high, set_name, image_large
 
 
 -- Set ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ DROP PROCEDURE IF EXISTS findSet;
 SET DELIMITER !
 CREATE PROCEDURE findSet(setName VARCHAR(20))
 BEGIN
-	SELECT pokemon_name, image_larger FROM pokemon 
+	SELECT pokemon_name, set_name, image_larger FROM pokemon 
     WHERE set_name = setName;
 END !
 SET DELIMITER ;
