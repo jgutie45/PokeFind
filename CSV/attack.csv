@@ -1,0 +1,673 @@
+base1-1,Confuse Ray,Psychic,3,30
+base1-10,Psychic,Psychic,2,10+
+base1-11,Thrash,Grass,3,30+
+base1-12,Lure,Colorless,2,\N
+base1-13,Water Gun,Water,3,30+
+base1-14,Agility,Lightning,3,20
+base1-15,Solarbeam,Grass,4,60
+base1-16,Thunder,Lightning,4,60
+base1-17,Twineedle,Colorless,3,30×
+base1-18,Slam,Colorless,3,30×
+base1-19,Slash,Fighting,3,40
+base1-2,Hydro Pump,Water,3,40+
+base1-20,Thundershock,Lightning,1,10
+base1-21,Electric Shock,Lightning,3,50
+base1-22,Whirlwind,Colorless,2,20
+base1-23,Flamethrower,Fire,3,50
+base1-24,Slash,Colorless,3,30
+base1-25,Aurora Beam,Water,3,50
+base1-26,Pound,Colorless,1,10
+base1-27,Leek Slap,Colorless,1,30
+base1-28,Flare,Fire,2,20
+base1-29,Hypnosis,Psychic,1,\N
+base1-3,Scrunch,Colorless,2,\N
+base1-30,Vine Whip,Grass,3,30
+base1-31,Doubleslap,Psychic,1,10×
+base1-32,Recover,Psychic,2,\N
+base1-33,Stiffen,Colorless,2,\N
+base1-34,Karate Chop,Fighting,3,50-
+base1-35,Tackle,Colorless,1,10
+base1-36,Fire Punch,Fire,2,30
+base1-37,Double Kick,Grass,3,30×
+base1-38,Amnesia,Water,2,\N
+base1-39,Conversion 1,Colorless,1,\N
+base1-4,Fire Spin,Fire,4,100
+base1-40,Bite,Colorless,1,20
+base1-41,Headbutt,Water,1,10
+base1-42,Withdraw,Water,2,\N
+base1-43,Psyshock,Psychic,1,10
+base1-44,Leech Seed,Grass,2,20
+base1-45,String Shot,Grass,1,10
+base1-46,Scratch,Colorless,1,10
+base1-47,Dig,Fighting,1,10
+base1-48,Fury Attack,Colorless,1,10×
+base1-49,Pound,Colorless,1,10
+base1-5,Sing,Colorless,1,\N
+base1-50,Sleeping Gas,Psychic,1,\N
+base1-51,Foul Gas,Grass,2,10
+base1-52,Low Kick,Fighting,1,20
+base1-53,Thunder Wave,Lightning,1,10
+base1-54,Stiffen,Colorless,2,\N
+base1-55,Horn Hazard,Grass,1,30
+base1-56,Rock Throw,Fighting,1,10
+base1-57,Whirlwind,Colorless,2,10
+base1-58,Gnaw,Colorless,1,10
+base1-59,Water Gun,Water,1,10+
+base1-6,Dragon Rage,Water,3,50
+base1-60,Smash Kick,Colorless,2,20
+base1-61,Bite,Colorless,1,20
+base1-62,Sand-attack,Fighting,1,10
+base1-63,Bubble,Water,1,10
+base1-64,Recover,Water,2,\N
+base1-65,Slap,Water,1,20
+base1-66,Bind,Grass,2,20
+base1-67,Tackle,Colorless,1,10
+base1-68,Confuse Ray,Fire,2,10
+base1-69,Poison Sting,Grass,1,10
+base1-7,Jab,Fighting,1,20
+base1-8,Seismic Toss,Fighting,4,60
+base1-9,Thunder Wave,Lightning,3,30
+base1-10,Barrier,Psychic,2,\N
+base1-11,Toxic,Grass,3,20
+base1-12,Fire Blast,Fire,4,80
+base1-13,Whirlpool,Water,4,40
+base1-14,Thunder,Lightning,4,60
+base1-16,Thunderbolt,Lightning,4,100
+base1-17,Poison Sting,Grass,3,40
+base1-18,Hyper Beam,Colorless,4,20
+base1-19,Earthquake,Fighting,4,70
+base1-20,Thunderpunch,Colorless,2,30+
+base1-22,Mirror Move,Colorless,3,\N
+base1-23,Take Down,Fire,4,80
+base1-24,Flamethrower,Fire,3,50
+base1-25,Ice Beam,Water,4,30
+base1-27,Pot Smash,Colorless,3,30
+base1-29,Dream Eater,Psychic,2,50
+base1-3,Double-edge,Colorless,4,80
+base1-30,Poisonpowder,Grass,3,20
+base1-31,Meditate,Psychic,3,20+
+base1-32,Super Psy,Psychic,3,50
+base1-33,Poisonpowder,Grass,2,20
+base1-34,Submission,Fighting,4,60
+base1-35,Flail,,1,10×
+base1-36,Flamethrower,Fire,3,50
+base1-37,Horn Drill,Grass,4,50
+base1-38,Doubleslap,Water,3,30×
+base1-39,Conversion 2,Colorless,2,\N
+base1-40,Super Fang,Colorless,3,\N
+base1-42,Bite,Colorless,3,40
+base1-46,Ember,Colorless,2,30
+base1-47,Mud Slap,Fighting,2,30
+base1-49,Confuse Ray,Psychic,2,10
+base1-5,Metronome,Colorless,3,\N
+base1-50,Destiny Bond,Colorless,2,\N
+base1-53,Selfdestruct,Colorless,2,40
+base1-54,Stun Spore,Grass,2,20
+base1-56,Harden,Fighting,2,\N
+base1-58,Thunder Jolt,Colorless,2,30
+base1-6,Bubblebeam,Water,4,40
+base1-60,Flame Tail,Fire,2,30
+base1-63,Withdraw,Colorless,2,\N
+base1-64,Star Freeze,Colorless,3,20
+base1-66,Poisonpowder,Grass,3,20
+base1-7,Special Punch,Fighting,3,40
+base1-9,Selfdestruct,Lightning,4,80
+base2-1,Metronome,Colorless,1,\N
+base2-10,Swords Dance,Grass,1,\N
+base2-11,Body Slam,Colorless,4,30
+base2-12,Quick Attack,Colorless,2,10+
+base2-13,Venom Powder,Grass,2,10
+base2-14,Lure,Grass,1,\N
+base2-15,Petal Dance,Grass,3,40×
+base2-16,Lullaby,Colorless,1,\N
+base2-17,Metronome,Colorless,1,\N
+base2-18,Tackle,Colorless,2,20
+base2-19,Quick Attack,Colorless,2,10+
+base2-2,Tackle,Colorless,2,20
+base2-20,Quick Attack,Colorless,2,10+
+base2-21,Fetch,Colorless,1,\N
+base2-22,Meditate,Psychic,2,10+
+base2-23,Boyfriends,Grass,2,20+
+base2-24,Wing Attack,Colorless,2,20
+base2-25,Irongrip,Grass,2,20
+base2-26,Swords Dance,Grass,1,\N
+base2-27,Body Slam,Colorless,4,30
+base2-28,Quick Attack,Colorless,2,10+
+base2-29,Venom Powder,Grass,2,10
+base2-3,Quick Attack,Colorless,2,10+
+base2-30,Lure,Grass,1,\N
+base2-31,Petal Dance,Grass,3,40×
+base2-32,Lullaby,Colorless,1,\N
+base2-33,Whirlwind,Colorless,2,20
+base2-34,Rage,Colorless,3,10+
+base2-35,Teleport,Psychic,1,\N
+base2-36,Agility,Colorless,3,20
+base2-37,Poisonpowder,Grass,1,\N
+base2-38,Tongue Wrap,Colorless,1,10
+base2-39,Bonemerang,Fighting,2,30×
+base2-4,Quick Attack,Colorless,2,10+
+base2-40,Supersonic,Grass,1,\N
+base2-41,Spore,Grass,2,\N
+base2-42,Scratch,Colorless,2,20
+base2-43,Fury Swipes,Fighting,2,20×
+base2-44,Stomp,Colorless,2,20+
+base2-45,Horn Attack,Fighting,3,30
+base2-46,Horn Attack,Water,1,10
+base2-47,Stomp,Colorless,2,20+
+base2-48,Poisonpowder,Grass,1,10
+base2-49,Vine Whip,Grass,1,10
+base2-5,Fetch,Colorless,1,\N
+base2-50,Snivel,Colorless,1,\N
+base2-51,Tail Wag,Colorless,1,\N
+base2-52,Hypnosis,Psychic,1,\N
+base2-53,Horn Attack,Water,1,10
+base2-54,Lullaby,Colorless,1,\N
+base2-55,Scratch,Colorless,1,10
+base2-56,Pay Day,Colorless,2,10
+base2-57,Fury Swipes,Grass,1,10×
+base2-58,Stun Spore,Grass,1,10
+base2-59,Scratch,Colorless,2,20
+base2-6,Meditate,Psychic,2,10+
+base2-60,Spark,Lightning,2,20
+base2-61,Leer,Colorless,1,\N
+base2-62,Peck,Colorless,1,10
+base2-63,Stun Spore,Grass,1,10
+base2-7,Boyfriends,Grass,2,20+
+base2-8,Wing Attack,Colorless,2,20
+base2-9,Irongrip,Grass,2,20
+base2-1,Minimize,Colorless,2,\N
+base2-10,Slash,Colorless,3,30
+base2-12,Water Gun,Water,3,30+
+base2-14,Acid,Grass,2,20
+base2-16,Do the Wave,Colorless,3,10+
+base2-17,Minimize,Colorless,2,\N
+base2-18,Chain Lightning,Lightning,3,20
+base2-19,Flamethrower,Fire,4,60
+base2-2,Chain Lightning,Lightning,3,20
+base2-20,Pin Missile,Lightning,3,20×
+base2-21,Comet Punch,Colorless,4,20×
+base2-23,Mega Punch,Grass,4,50
+base2-24,Hurricane,Colorless,3,30
+base2-25,Guillotine,Grass,4,50
+base2-26,Slash,Colorless,3,30
+base2-28,Water Gun,Water,3,30+
+base2-3,Flamethrower,Fire,4,60
+base2-30,Acid,Grass,2,20
+base2-32,Do the Wave,Colorless,3,10+
+base2-33,Mega Drain,Grass,4,40
+base2-35,Big Eggsplosion,,1,20×
+base2-36,Drill Peck,Colorless,4,40
+base2-37,Foul Odor,Grass,2,20
+base2-38,Supersonic,Colorless,2,\N
+base2-39,Call for Friend,Fighting,3,\N
+base2-4,Pin Missile,Lightning,3,20×
+base2-40,Double Kick,Colorless,3,30×
+base2-41,Slash,Colorless,3,30
+base2-42,Pounce,Colorless,3,30
+base2-43,Tantrum,Fighting,3,50
+base2-44,Agility,Fire,3,30
+base2-45,Ram,Fighting,4,50
+base2-46,Waterfall,Colorless,2,30
+base2-47,Rampage,Colorless,3,20+
+base2-48,Razor Leaf,Grass,2,30
+base2-49,Call for Family,,1,\N
+base2-5,Comet Punch,Colorless,4,20×
+base2-50,Rage,Fighting,2,10+
+base2-51,Quick Attack,Colorless,2,10+
+base2-52,Leech Seed,Grass,2,20
+base2-54,Pound,Colorless,2,20
+base2-57,Call for Family,Grass,2,\N
+base2-58,Sprout,Grass,2,\N
+base2-59,Spore,Grass,2,\N
+base2-61,Horn Attack,Colorless,3,30
+base2-62,Mirror Move,Colorless,3,\N
+base2-63,Leech Life,Colorless,2,10
+base2-7,Mega Punch,Grass,4,50
+base2-8,Hurricane,Colorless,3,30
+base2-9,Guillotine,Grass,4,50
+base3-1,Wing Attack,Colorless,3,30
+base3-10,Water Gun,Water,1,10+
+base3-11,Sonicboom,Lightning,2,20
+base3-12,Wildfire,Fire,1,\N
+base3-13,Sludge,Grass,3,30
+base3-14,Gigashock,Lightning,4,30
+base3-15,Thunderstorm,Lightning,4,40
+base3-16,Wing Attack,Colorless,3,30
+base3-17,Freeze Dry,Water,3,30
+base3-19,Slam,Colorless,4,40×
+base3-2,Freeze Dry,Water,3,30
+base3-20,Dark Mind,Psychic,3,30
+base3-21,Nightmare,Psychic,2,10
+base3-22,Stretch Kick,Fighting,2,\N
+base3-23,Prophecy,Psychic,1,\N
+base3-24,Sharp Sickle,Fighting,2,30
+base3-25,Water Gun,Water,1,10+
+base3-26,Sonicboom,Lightning,2,20
+base3-27,Wildfire,Fire,1,\N
+base3-28,Sludge,Grass,3,30
+base3-29,Gigashock,Lightning,4,30
+base3-30,Thunderstorm,Lightning,4,40
+base3-31,Terror Strike,Grass,1,10
+base3-32,Clamp,Water,2,30
+base3-33,Lick,Psychic,1,10
+base3-34,Wing Attack,Colorless,3,30
+base3-35,Psyshock,Psychic,1,10
+base3-36,Avalanche,Fighting,4,60
+base3-37,Harden,Fighting,2,\N
+base3-38,Flail,Water,1,10×
+base3-39,Smokescreen,Fire,1,10
+base3-4,Slam,Colorless,4,40×
+base3-40,Water Gun,Water,2,20+
+base3-41,Slash,Colorless,2,20
+base3-42,Water Gun,Water,2,20+
+base3-43,Psyshock,Psychic,2,20
+base3-44,Supersonic,Water,1,\N
+base3-45,Smog,Grass,2,20
+base3-46,Spit Poison,Grass,1,\N
+base3-47,Stone Barrage,Fighting,2,10×
+base3-48,Nasty Goo,Colorless,1,10
+base3-49,Smokescreen,Water,1,10
+base3-5,Dark Mind,Psychic,3,30
+base3-50,Scratch,Colorless,1,10
+base3-51,Call for Family,Water,1,\N
+base3-52,Water Gun,Water,1,10+
+base3-53,Headache,Psychic,1,\N
+base3-54,Supersonic,Water,1,\N
+base3-55,Spacing Out,Colorless,1,\N
+base3-56,Acid,Water,1,10
+base3-57,Supersonic,Colorless,2,\N
+base3-6,Nightmare,Psychic,2,10
+base3-7,Stretch Kick,Fighting,2,\N
+base3-8,Prophecy,Psychic,1,\N
+base3-9,Sharp Sickle,Fighting,2,30
+base3-10,Confuse Ray,Water,2,10
+base3-11,Selfdestruct,Lightning,4,100
+base3-12,Dive Bomb,Fire,4,80
+base3-17,Blizzard,Water,4,50
+base3-2,Blizzard,Water,4,50
+base3-22,High Jump Kick,Fighting,3,50
+base3-23,Dark Mind,Psychic,3,30
+base3-24,Absorb,Fighting,4,40
+base3-25,Confuse Ray,Water,2,10
+base3-26,Selfdestruct,Lightning,4,100
+base3-27,Dive Bomb,Fire,4,80
+base3-31,Poison Fang,Grass,3,20
+base3-32,Spike Cannon,Water,2,30×
+base3-33,Energy Conversion,Psychic,2,\N
+base3-34,Leech Life,Grass,3,20
+base3-35,Hyper Beam,Water,3,20
+base3-36,Selfdestruct,Fighting,4,100
+base3-37,Rock Throw,Fighting,3,40
+base3-38,Crabhammer,Water,3,40
+base3-39,Smog,Fire,2,20
+base3-40,Spike Cannon,Water,2,30×
+base3-41,Fury Swipes,Fighting,2,20×
+base3-42,Agility,Colorless,3,20
+base3-44,Jellyfish Sting,Water,2,10
+base3-45,Selfdestruct,Grass,3,60
+base3-46,Wrap,Colorless,2,20
+base3-48,Minimize,,1,\N
+base3-51,Irongrip,Colorless,2,20
+base3-53,Fury Swipes,,1,10×
+base3-54,Hide in Shell,,1,\N
+base3-55,Scavenge,Psychic,2,\N
+base3-57,Leech Life,Colorless,2,10
+base3-7,High Jump Kick,Fighting,3,50
+base3-8,Dark Mind,Psychic,3,30
+base3-9,Absorb,Fighting,4,40
+base4-1,Confuse Ray,Psychic,3,30
+base4-10,Psychic,Psychic,2,10+
+base4-100,Poison Sting,Grass,1,10
+base4-11,Thrash,Grass,3,30+
+base4-12,Boyfriends,Grass,2,20+
+base4-13,Lure,Colorless,2,\N
+base4-14,Wing Attack,Colorless,2,20
+base4-15,Water Gun,Water,3,30+
+base4-16,Agility,Lightning,3,20
+base4-17,Swords Dance,Grass,1,\N
+base4-18,Solarbeam,Grass,4,60
+base4-19,Lullaby,Colorless,1,\N
+base4-2,Hydro Pump,Water,3,40+
+base4-20,Thunder,Lightning,4,60
+base4-21,Twineedle,Colorless,3,30×
+base4-22,Slam,Colorless,3,30×
+base4-23,Slash,Fighting,3,40
+base4-24,Thundershock,Lightning,1,10
+base4-25,Electric Shock,Lightning,3,50
+base4-26,Fetch,Colorless,1,\N
+base4-27,Meditate,Psychic,2,10+
+base4-28,Whirlwind,Colorless,2,20
+base4-29,Irongrip,Grass,2,20
+base4-3,Scrunch,Colorless,2,\N
+base4-30,Body Slam,Colorless,4,30
+base4-31,Venom Powder,Grass,2,10
+base4-32,Lure,Grass,1,\N
+base4-33,Flamethrower,Fire,3,50
+base4-34,Whirlwind,Colorless,2,20
+base4-35,Slash,Colorless,3,30
+base4-36,Aurora Beam,Water,3,50
+base4-37,Rage,Colorless,3,10+
+base4-38,Pound,Colorless,1,10
+base4-39,Teleport,Psychic,1,\N
+base4-4,Fire Spin,Fire,4,100
+base4-40,Leek Slap,Colorless,1,30
+base4-41,Agility,Colorless,3,20
+base4-42,Flare,Fire,2,20
+base4-43,Hypnosis,Psychic,1,\N
+base4-44,Vine Whip,Grass,3,30
+base4-45,Doubleslap,Psychic,1,10×
+base4-46,Recover,Psychic,2,\N
+base4-47,Stiffen,Colorless,2,\N
+base4-48,Tongue Wrap,Colorless,1,10
+base4-49,Karate Chop,Fighting,3,50-
+base4-5,Metronome,Colorless,1,\N
+base4-50,Tackle,Colorless,1,10
+base4-51,Fire Punch,Fire,2,30
+base4-52,Bonemerang,Fighting,2,30×
+base4-53,Supersonic,Grass,1,\N
+base4-54,Double Kick,Grass,3,30×
+base4-55,Spore,Grass,2,\N
+base4-56,Scratch,Colorless,2,20
+base4-57,Amnesia,Water,2,\N
+base4-58,Bite,Colorless,1,20
+base4-59,Horn Attack,Fighting,3,30
+base4-6,Sing,Colorless,1,\N
+base4-60,Horn Attack,Water,1,10
+base4-61,Headbutt,Water,1,10
+base4-62,Stomp,Colorless,2,20+
+base4-63,Withdraw,Water,2,\N
+base4-64,Poisonpowder,Grass,1,10
+base4-65,Psyshock,Psychic,1,10
+base4-66,Vine Whip,Grass,1,10
+base4-67,Leech Seed,Grass,2,20
+base4-68,String Shot,Grass,1,10
+base4-69,Scratch,Colorless,1,10
+base4-7,Dragon Rage,Water,3,50
+base4-70,Snivel,Colorless,1,\N
+base4-71,Dig,Fighting,1,10
+base4-72,Fury Attack,Colorless,1,10×
+base4-73,Pound,Colorless,1,10
+base4-74,Hypnosis,Psychic,1,\N
+base4-75,Sleeping Gas,Psychic,1,\N
+base4-76,Horn Attack,Water,1,10
+base4-77,Lullaby,Colorless,1,\N
+base4-78,Low Kick,Fighting,1,20
+base4-79,Thunder Wave,Lightning,1,10
+base4-8,Jab,Fighting,1,20
+base4-80,Pay Day,Colorless,2,10
+base4-81,Stiffen,Colorless,2,\N
+base4-82,Fury Swipes,Grass,1,10×
+base4-83,Horn Hazard,Grass,1,30
+base4-84,Rock Throw,Fighting,1,10
+base4-85,Scratch,Colorless,2,20
+base4-86,Whirlwind,Colorless,2,10
+base4-87,Gnaw,Colorless,1,10
+base4-88,Water Gun,Water,1,10+
+base4-89,Bite,Colorless,1,20
+base4-9,Thunder Wave,Lightning,3,30
+base4-90,Leer,Colorless,1,\N
+base4-91,Sand-attack,Fighting,1,10
+base4-92,Peck,Colorless,1,10
+base4-93,Bubble,Water,1,10
+base4-94,Recover,Water,2,\N
+base4-95,Slap,Water,1,20
+base4-96,Bind,Grass,2,20
+base4-97,Stun Spore,Grass,1,10
+base4-98,Tackle,Colorless,1,10
+base4-99,Confuse Ray,Fire,2,10
+base4-10,Barrier,Psychic,2,\N
+base4-11,Toxic,Grass,3,20
+base4-12,Mega Punch,Grass,4,50
+base4-13,Fire Blast,Fire,4,80
+base4-14,Hurricane,Colorless,3,30
+base4-15,Whirlpool,Water,4,40
+base4-16,Thunder,Lightning,4,60
+base4-17,Slash,Colorless,3,30
+base4-19,Do the Wave,Colorless,3,10+
+base4-20,Thunderbolt,Lightning,4,100
+base4-21,Poison Sting,Grass,3,40
+base4-22,Hyper Beam,Colorless,4,20
+base4-23,Earthquake,Fighting,4,70
+base4-24,Thunderpunch,Colorless,2,30+
+base4-26,Comet Punch,Colorless,4,20×
+base4-28,Mirror Move,Colorless,3,\N
+base4-29,Guillotine,Grass,4,50
+base4-3,Double-edge,Colorless,4,80
+base4-32,Acid,Grass,2,20
+base4-33,Take Down,Fire,4,80
+base4-34,Mega Drain,Grass,4,40
+base4-35,Flamethrower,Fire,3,50
+base4-36,Ice Beam,Water,4,30
+base4-39,Big Eggsplosion,,1,20×
+base4-40,Pot Smash,Colorless,3,30
+base4-41,Drill Peck,Colorless,4,40
+base4-43,Dream Eater,Psychic,2,50
+base4-44,Poisonpowder,Grass,3,20
+base4-45,Meditate,Psychic,3,20+
+base4-46,Super Psy,Psychic,3,50
+base4-47,Poisonpowder,Grass,2,20
+base4-48,Supersonic,Colorless,2,\N
+base4-49,Submission,Fighting,4,60
+base4-5,Minimize,Colorless,2,\N
+base4-50,Flail,,1,10×
+base4-51,Flamethrower,Fire,3,50
+base4-52,Call for Friend,Fighting,3,\N
+base4-53,Double Kick,Colorless,3,30×
+base4-54,Horn Drill,Grass,4,50
+base4-55,Slash,Colorless,3,30
+base4-56,Pounce,Colorless,3,30
+base4-57,Doubleslap,Water,3,30×
+base4-58,Super Fang,Colorless,3,\N
+base4-59,Ram,Fighting,4,50
+base4-6,Metronome,Colorless,3,\N
+base4-60,Waterfall,Colorless,2,30
+base4-62,Rampage,Colorless,3,20+
+base4-63,Bite,Colorless,3,40
+base4-64,Razor Leaf,Grass,2,30
+base4-66,Call for Family,,1,\N
+base4-69,Ember,Colorless,2,30
+base4-7,Bubblebeam,Water,4,40
+base4-70,Rage,Fighting,2,10+
+base4-71,Mud Slap,Fighting,2,30
+base4-73,Confuse Ray,Psychic,2,10
+base4-74,Leech Seed,Grass,2,20
+base4-75,Destiny Bond,Colorless,2,\N
+base4-77,Pound,Colorless,2,20
+base4-79,Selfdestruct,Colorless,2,40
+base4-8,Special Punch,Fighting,3,40
+base4-81,Stun Spore,Grass,2,20
+base4-82,Call for Family,Grass,2,\N
+base4-84,Harden,Fighting,2,\N
+base4-85,Spore,Grass,2,\N
+base4-87,Thunder Jolt,Colorless,2,30
+base4-9,Selfdestruct,Lightning,4,80
+base4-90,Horn Attack,Colorless,3,30
+base4-92,Mirror Move,Colorless,3,\N
+base4-93,Withdraw,Colorless,2,\N
+base4-94,Star Freeze,Colorless,3,20
+base4-96,Poisonpowder,Grass,3,20
+base4-97,Leech Life,Colorless,2,10
+base5-1,Teleport Blast,Psychic,3,30
+base5-10,Mega Punch,Fighting,2,30
+base5-11,Sonicboom,Colorless,2,20
+base5-12,Fickle Attack,Psychic,2,40
+base5-13,Petal Whirlwind,Grass,3,30×
+base5-14,Mass Explosion,Grass,2,20×
+base5-18,Teleport Blast,Psychic,3,30
+base5-19,Stare,Grass,2,\N
+base5-2,Stare,Grass,2,\N
+base5-20,Hydrocannon,Water,2,30+
+base5-21,Nail Flick,Colorless,1,10
+base5-22,Giant Tail,Colorless,4,70
+base5-23,Knock Down,Fighting,2,20+
+base5-24,Flitter,Grass,2,\N
+base5-25,Ice Beam,Water,3,30
+base5-26,Psypunch,Psychic,1,20
+base5-27,Mega Punch,Fighting,2,30
+base5-28,Sonicboom,Colorless,2,20
+base5-29,Fickle Attack,Psychic,2,40
+base5-3,Hydrocannon,Water,2,30+
+base5-30,Petal Whirlwind,Grass,3,30×
+base5-31,Mass Explosion,Grass,2,20×
+base5-32,Tail Slap,Colorless,2,20
+base5-33,Tail Strike,Colorless,3,20+
+base5-34,Rolling Tackle,Colorless,1,10
+base5-35,Rage,Colorless,1,10+
+base5-36,Poisonpowder,Grass,2,10
+base5-37,Third Eye,Psychic,1,\N
+base5-38,Lightning Flash,Lightning,1,20
+base5-39,Mind Shock,Psychic,2,30
+base5-4,Nail Flick,Colorless,1,10
+base5-40,Drag Off,Fighting,3,20
+base5-41,Sludge Punch,Grass,2,20
+base5-42,Fascinate,Colorless,1,\N
+base5-43,Frenzied Attack,Fighting,2,40
+base5-44,Rear Kick,Colorless,2,20
+base5-45,Bite,Colorless,3,30
+base5-46,Doubleslap,Water,1,10×
+base5-47,Flop,Colorless,1,10
+base5-48,Conversion 1,Colorless,1,\N
+base5-49,Vanish,Psychic,1,\N
+base5-5,Giant Tail,Colorless,4,70
+base5-50,Fire Tail,Fire,1,20
+base5-51,Gnaw,Colorless,2,20
+base5-52,Dig Under,Fighting,1,\N
+base5-53,Wrap,Colorless,2,10
+base5-54,Nightmare,Psychic,2,10
+base5-55,Tackle,Colorless,1,10
+base5-56,Bite,Colorless,1,10
+base5-57,Poison Gas,Grass,1,\N
+base5-58,Tackle,Colorless,1,10
+base5-59,Punch,Colorless,2,20
+base5-6,Knock Down,Fighting,2,20+
+base5-60,Tackle,Colorless,2,20
+base5-61,Mischief,Colorless,1,\N
+base5-62,Coin Hurl,Colorless,2,\N
+base5-63,Sleep Powder,Grass,1,\N
+base5-64,Ember,Fire,2,30
+base5-65,Dizziness,Psychic,1,\N
+base5-66,Quick Attack,Colorless,1,10+
+base5-67,Afternoon Nap,Colorless,1,\N
+base5-68,Shell Attack,Colorless,2,20
+base5-69,Speed Ball,Lightning,1,20
+base5-7,Flitter,Grass,2,\N
+base5-70,Ram,Colorless,1,10
+base5-8,Ice Beam,Water,3,30
+base5-83,Surprise Thunder,Lightning,3,30
+base5-9,Psypunch,Psychic,1,20
+base5-1,Mind Shock,Psychic,3,40
+base5-10,Fling,Fighting,4,\N
+base5-11,Magnetic Lines,Lightning,2,30
+base5-14,Stun Gas,Grass,3,20
+base5-18,Mind Shock,Psychic,3,40
+base5-19,Poison Vapor,Grass,3,10
+base5-2,Poison Vapor,Grass,3,10
+base5-20,Rocket Tackle,Colorless,3,40
+base5-21,Continuous Fireball,Fire,2,50×
+base5-26,Bench Manipulation,Psychic,3,20×
+base5-27,Fling,Fighting,4,\N
+base5-28,Magnetic Lines,Lightning,2,30
+base5-3,Rocket Tackle,Colorless,3,40
+base5-31,Stun Gas,Grass,3,20
+base5-32,Fireball,Fire,3,70
+base5-34,Energy Bomb,Lightning,2,30
+base5-35,Playing with Fire,Fire,2,30+
+base5-37,Super Psy,Psychic,3,50
+base5-38,Thunder Attack,Lightning,3,30
+base5-4,Continuous Fireball,Fire,2,50×
+base5-40,Knock Back,Fighting,3,30
+base5-42,Poison Claws,Colorless,2,10
+base5-44,Flame Pillar,Fire,2,30
+base5-45,Whirlpool,Water,3,20
+base5-46,Mirror Shell,Colorless,2,\N
+base5-47,Rapid Evolution,Water,3,\N
+base5-48,Psybeam,Colorless,3,20
+base5-49,Psyshock,,1,10
+base5-51,Hyper Fang,Colorless,3,50
+base5-52,Scratch,Colorless,2,20
+base5-55,Sand-attack,Colorless,2,10
+base5-56,Poison Sting,Grass,2,20
+base5-57,Sticky Hands,Grass,2,10+
+base5-58,Poison Gas,Colorless,2,20
+base5-59,Kick,Colorless,3,30
+base5-60,Magnetism,Colorless,2,10+
+base5-61,Anger,Colorless,2,20+
+base5-63,Poisonpowder,,1,\N
+base5-65,Water Gun,Colorless,2,20+
+base5-67,Headbutt,,1,10
+base5-70,Bite,Colorless,2,20
+base5-9,Bench Manipulation,Psychic,3,20×
+basep-1,Growl,Colorless,1,\N
+basep-10,Cat Punch,Colorless,2,\N
+basep-11,Bite,Colorless,1,20
+basep-12,Energy Control,Psychic,1,\N
+basep-13,Mega Drain,Grass,4,40
+basep-14,Energy Absorption,Psychic,1,\N
+basep-15,Texture Magic,Colorless,3,\N
+basep-17,Tempt,Colorless,1,\N
+basep-18,Miraculous Comeback,Colorless,1,\N
+basep-19,Pound,Colorless,1,10
+basep-2,Light Screen,Lightning,1,\N
+basep-20,Headache,Psychic,1,\N
+basep-21,Hyper Flame,Fire,3,60
+basep-22,Diamond Dust,Water,3,20
+basep-23,Lightning Burn,Lightning,3,30
+basep-24,Birthday Surprise,Lightning,2,30+
+basep-25,Thundershock,Lightning,1,10
+basep-26,Scratch,Colorless,1,10
+basep-27,Thundershock,Lightning,1,10
+basep-28,Surf,Water,2,30
+basep-29,Water Gun,Water,2,20+
+basep-3,Energy Absorption,Psychic,1,\N
+basep-30,Snivel,Colorless,1,\N
+basep-31,Eek,Colorless,1,\N
+basep-32,Paint,Colorless,1,\N
+basep-33,Leer,Colorless,1,\N
+basep-34,Protective Flame,Fire,3,50
+basep-35,Let's Play!,Colorless,1,\N
+basep-36,Good Night Song,Colorless,1,\N
+basep-37,Repeating Kick,Fighting,2,20×
+basep-38,Hidden Power,Psychic,1,10
+basep-39,Pain Split,Psychic,1,\N
+basep-4,Recharge,Lightning,1,\N
+basep-43,Seething Anger,Fighting,2,20+
+basep-44,Burning Fire,Fire,1,10+
+basep-45,Slashing Strike,Grass,2,40
+basep-46,Lightning Rod,Lightning,1,\N
+basep-47,Psyshock,Psychic,1,10
+basep-48,Ice Beam,Water,4,30
+basep-49,Roll Over,Colorless,4,30
+basep-5,Supersonic Flight,Colorless,3,60
+basep-50,Leaf Slice,Grass,2,20×
+basep-51,Jump Over,Colorless,2,\N
+basep-52,Sacred Wing,Fire,4,60
+basep-53,Hypno Wave,Water,3,30+
+basep-6,Quick Attack,Colorless,2,10+
+basep-7,First Aid,Colorless,1,\N
+basep-8,Psywave,Psychic,1,10×
+basep-9,Psywave,Psychic,1,10×
+basep-1,Thundershock,Lightning,2,20
+basep-12,Telekinesis,Psychic,3,\N
+basep-14,Psyburn,Psychic,3,40
+basep-15,3-D Attack,Colorless,3,20×
+basep-17,Poison Claws,Colorless,2,10
+basep-19,Synchronize,Colorless,2,40
+basep-2,Quick Attack,Colorless,2,10+
+basep-20,Fury Swipes,,1,10×
+basep-25,Fly,Colorless,3,30
+basep-26,Thunderbolt,Lightning,2,40
+basep-27,Agility,Lightning,2,20
+basep-3,Psyburn,Psychic,3,40
+basep-30,Mini-Metronome,Colorless,2,\N
+basep-33,Metal Pincer,Colorless,3,30+
+basep-37,Rapid Spin,Fighting,3,30
+basep-39,Confuse Ray,Psychic,2,10
+basep-4,Thunderbolt,Lightning,3,50
+basep-43,Fling,Fighting,4,50
+basep-44,Magma Punch,Fire,3,40
+basep-46,Lightning Bolt,Lightning,2,10
+basep-51,Super Singe,Colorless,3,30
+basep-6,Flames of Rage,Fire,2,40+
+basep-7,Double-edge,Colorless,3,40
+basep-8,Devolution Beam,Psychic,2,\N
+basep-9,Devolution Beam,Psychic,2,\N
