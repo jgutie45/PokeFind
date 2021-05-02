@@ -3,7 +3,7 @@ const mysqlx = require('@mysql/xdevapi');
 
 // Connect to serber using a connection URL
 var mySession = mysqlx.getSession({
-    host: 'locationhost', 
+    host: 'localhost', 
     port: 3306,
     user: 'root', 
     password:'W2ill1iam!'})
