@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jgutie45/PokeFind#readme",
   "dependencies": {
-    "@mysql/xdevapi": "8.0.24"
+    "@mysql/xdevapi": "8.0.24",
+    "express": "^4.17.1"
   }
 }
