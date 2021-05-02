@@ -4,16 +4,16 @@ const mysqlx = require('@mysql/xdevapi');
 // Connect to serber using a connection URL
 var mySession = mysqlx.getSession({
     host: 'localhost', 
-    port: 3306,
+    port: 33060,
     user: 'root', 
     password:'W2ill1iam!'})
     .then (session =>{
-        var pokemonDB = session.getSchema('PokeFind')
+        var myDb = session.getSchema('PokeFind');
             // Accessing an existing table
             var myTable = myDb.getTable('pokemon');
             var myResults = myTable.select(['id', 'pokemon_name','pokemon_level','hp','rarity','set_name','image_large','image_small','evolvesTo']).
             where('pokemon_name like :pokemon_name').
-            bind('name', 'P%').execute();
+            bind('pokemon_name', 'P%').execute();
 
             return myResults
     })
@@ -22,4 +22,30 @@ var mySession = mysqlx.getSession({
         console.log(result.fetchAll());        
     });
 
+module.exports = {
+    buildPromise : async function ()
+    {
+        const mysqlx = require('@mysql/xdevapi');
+
+        // Connect to server using a connection URL
+        var mySession = mysqlx.getSession({
+            host:'localhost',
+            port: 33060,
+            user:'root',
+            password: 'W2ill1iam!'
+        }).then(session =>{
+            var myDb = session.getSchema('PokemonFind');
+            // Accessing an existing table
+            var myTable = myDb.getSession('pokemon');
+            var myResults = myTable.select(['id', 'pokemon_name','pokemon_level','hp','rarity','set_name','image_large','image_small','evolvesTo']).
+            where('pokemon_name like :pokemon_name').
+            bind('pokemon_name', '%').execute();
+            return myResults; 
+        })
+        .then(result =>{
+            return result.fetchAll();
+        });
+        return mySession; 
+    }
+}
   
