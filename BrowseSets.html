@@ -134,6 +134,35 @@
   .clear {
     clear: left;
   }
+
+  label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+  }
+
+  input,
+  label {
+      margin: .4rem 0;
+  }
+  .text_input{
+    border-color: #000;
+    font-size: 20px;
+    border: 3px solid black;
+  }
+  .contains{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+  .search{
+    font-size: 20px;
+    cursor: pointer;
+    
+  }
+
+
+
 </style>
 </head>
 
@@ -160,6 +189,16 @@
       
    </div>
    <div class="bottom">
+    <div class="search_input">
+      <form>
+        <div class="contains">
+          <input class="text_input" type="search" id="mySearch" name="pokemon"
+          placeholder="Search for Pokemon..." size="30">
+          <button class="search">Search</button>
+        </div>
+      </form>
+    </div>
+    
       <ul class="menu">
         <!-- first row -->
         <li>
