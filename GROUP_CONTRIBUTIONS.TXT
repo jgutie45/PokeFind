@@ -1,0 +1,19 @@
+Jasmine: 
+	- Added Functionality of The Site With Javascript 
+	- Connected the Database from MYSQL to The Website
+	- Created a Server To Run with Node.js
+	- Helped With FrontEnd Pages/Added FrontEnd Code
+	- Added In SQL Procedures/Table Scripts
+	-Created SQL/javascript scrips in the js code
+
+Christian:
+	- Created Database Table Scripts
+	- Scraped From Pokemon API Database
+	- Made CSV Files to add the database
+	-Created The Procedures Scripts
+
+Natalie:
+	-Designed Front End Pages
+	-Added Main Front End Pages
+	-Edited/Created Document
+	 

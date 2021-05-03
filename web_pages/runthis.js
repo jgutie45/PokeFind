@@ -19,7 +19,7 @@ var mySession = mysqlx.getSession({
     })
     .then( result =>{
         // Print Results
-        console.log(result.fetchAll());        
+        //console.log(result.fetchAll());        
     });
 
 module.exports = {
