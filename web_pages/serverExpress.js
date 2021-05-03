@@ -1,7 +1,7 @@
 // Load Node modules
 var express = require('express');
 const ejs = require('ejs');
-var path = require('path')
+var path = require('path');
 // Initialise Express
 var app = express();
 // Render static files
@@ -25,8 +25,10 @@ app.get('/js', function (req, res) {
     )
 	})
 app.get('/db', async function (req, res) {
+	var runQuery = require('./runthis.js')
 	var result = await runQuery.buildPromise()
-	res.send(result)
+	console.log(result[0]);
+	res.render(path.join(__dirname + '/CardList'), { //.html'))
+		cards: result
+	})
 })
-
-app.listen(3000)

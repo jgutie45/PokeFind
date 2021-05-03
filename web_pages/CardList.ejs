@@ -111,7 +111,7 @@
     }
 
     /* Responsive columns - one column layout (vertical) on small screens */
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 400px) {
       .column {
         width: 100%;
         display: block;
@@ -119,7 +119,20 @@
       }
     }
     h2{
-    text-align: center;
+      text-align: center;
+    }
+    .card {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      width: 40%;
+    }
+
+    .card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    }
+
+    .container {
+      padding: 2px 16px;
     }
     
 </style>
@@ -130,7 +143,7 @@
     <div class="topnav">
       <a href="Home.html">Home</a>
       <a href="BrowseSets.html">Browse Sets</a>
-      <a class="active" href="CardList.html">Card List</a>
+      <a class="active" href="CardList.ejs">Card List</a>
     </div>
     <div class="top">
         <div class="image-container">
@@ -140,47 +153,21 @@
       </div>
       <center>
         <h1 style="color:#FFD801; font-size:50px; margin-top: 0px;">Pokemon Database<h1>
-         
       </center>
 
       </div>
-      <div class="bottom">
-        <h2>Pokemon Card List</h2>
-        <div class="List">
-          <div class="row">
-            <div class="column">
-              <div class="card">
-                <h3>Pokemon 1</h3>
-                <p>Some text</p>
-                <p>Some text</p>
-              </div>
-            </div>
-          
-            <div class="column">
-              <div class="card">
-                <h3>Pokemon 2</h3>
-                <p>Some text</p>
-                <p>Some text</p>
-              </div>
-            </div>
-            
-            <div class="column">
-              <div class="card">
-                <h3>Pokemon 3</h3>
-                <p>Some text</p>
-                <p>Some text</p>
-              </div>
-            </div>
-            
-            <div class="column">
-              <div class="card">
-                <h3>Pokemon 4</h3>
-                <p>Some text</p>
-                <p>Some text</p>
-              </div>
-            </div>
+      <% for(var i=0; i< cards.length; i++){ %>
+        <div class="card">
+          <img src="<%= cards[i][8] %>"  style="width:50%">
+          <div class="container">
+            <h4>
+              <b>
+                Pokemon Name: <%= cards[i][1] %>
+              </b>
+            </h4>
+            <p>Pokemon Type: <%= cards[i][4] %></p>
           </div>
         </div>
-      </div>
+      <% } %>
 </body>
 </html>
