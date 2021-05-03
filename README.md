@@ -4,4 +4,4 @@ CS 480 Project Using an SQL database to connect the information
   - git clone the project
   - cd into webpage folder
   - run command "npm run build"
-  - go to broweser and type localhost:8080
+  - go to broweser and type "localhost:8080"
