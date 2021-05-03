@@ -32,3 +32,11 @@ app.get('/db', async function (req, res) {
 		cards: result
 	})
 })
+app.get('/sr', async function(req, res){
+	var runProcedure = require('./searchthis.js')
+	var result = await runProcedure.buildPromise()
+	console.log(result[0]);
+	res.render(path.join(__dirname + '/CardList'),{
+		pokemonName: result
+	})
+})

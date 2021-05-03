@@ -1,7 +1,7 @@
 // To run as standalone
 const mysqlx = require('@mysql/xdevapi');
 
-// Connect to serber using a connection URL
+// Connect to server using a connection URL
 var mySession = mysqlx.getSession({
     host: 'localhost', 
     port: 33060,
