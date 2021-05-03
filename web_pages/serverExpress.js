@@ -5,14 +5,14 @@ var path = require('path')
 // Initialise Express
 var app = express();
 // Render static files
-app.use(express.static(path.join(__dirname + '/web_pages'))); //('web_pages'));
+app.use(express.static(path.join(__dirname))); //('web_pages'));
 // Set the view engine to ejs
 app.set('view engine', 'ejs');
 // Port website will run on
 app.listen(8080);
 
 
-var runQuery = require('./runthis.js')
+//var runQuery = require('./runthis.js')
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname + '/Home.html')) //.html'))
