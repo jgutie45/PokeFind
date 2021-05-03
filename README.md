@@ -17,7 +17,7 @@ CS 480 Project Using an SQL database to connect the information
 #Database:
   - To build the database, run the SQL files from /MySQL in this order:
   1. buildPokeFind.sql
-  2. populatePokeFind.sql
   - Place the csv files from /CSV into your C:/Temp/, or change the file location in LOAD DATA LOCAL INFILE in populatePokeFind.sql and place the csv files there.
+  2. populatePokeFind.sql
   3. proceduresPokeFind.sql
   4. moreProcedures.sql
