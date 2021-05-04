@@ -170,7 +170,7 @@
     <div class="topnav">
       <a href="Home.html">Home</a>
       <a class="active" href="BrowseSets.html">Browse Sets</a>
-      <a href="CardList.ejs">Card List</a>
+      <a href="/db">Card List</a>
     </div>
     <div class="top">
         <div class="image-container">
@@ -189,9 +189,9 @@
    </div>
    <div class="bottom">
     <div class="search_input">
-      <form>
+      <form action="/sr" method="POST">
         <div class="contains">
-          <input class="text_input" type="search" id="mySearch" name="pokemon"
+          <input class="text_input" type="search" id="mySearch" name="pokemonName"
           placeholder="Search for Pokemon..." size="30">
           <button class="search">Search</button>
         </div>

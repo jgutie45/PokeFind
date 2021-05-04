@@ -6,6 +6,8 @@ var path = require('path');
 var app = express();
 // Render static files
 app.use(express.static(path.join(__dirname))); //('web_pages'));
+app.use(express.json());
+app.use(express.urlencoded({extended: false}));
 // Set the view engine to ejs
 app.set('view engine', 'ejs');
 // Port website will run on
@@ -32,11 +34,13 @@ app.get('/db', async function (req, res) {
 		cards: result
 	})
 })
-app.get('/sr', async function(req, res){
-	var runProcedure = require('./searchthis.js')
-	var result = await runProcedure.buildPromise()
+app.post('/sr', async function(req, res){
+	var name = req.body.pokemonName;
+	console.log(name);
+	var runQuery = require('./searchthis.js')
+	var result = await runQuery.searchByName(name);
 	console.log(result[0]);
-	res.render(path.join(__dirname + '/CardList'),{
-		pokemonName: result
+	res.render(path.join(__dirname + '/CardList'), { //.html'))
+		cards: result
 	})
 })
