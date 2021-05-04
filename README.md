@@ -21,3 +21,9 @@ CS 480 Project Using an SQL database to connect the information
   2. populatePokeFind.sql
   3. proceduresPokeFind.sql
   4. moreProcedures.sql
+
+#Resources:
+  -Used Node.js
+  -Used Express and ejs from Node.JS
+  -Used HTML, Javascript, and CSS
+
